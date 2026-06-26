@@ -1,9 +1,9 @@
 # 📈 Verified Revenue Landing Pages Dataset ($1B+ Tracked)
 
-> **To experience the fullest, use the web version:** While this raw dataset is incredibly useful for research and AI training, the absolute best way to consume this data is on our free web app. You can search, filter by niche, and view high-res screenshots alongside hand-written CRO breakdowns.  
-> 👉 **[Browse the Full Interactive Gallery on PagesThatPrint.com](https://www.pagesthatprint.com)**
+> **To experience the fullest, use the completely free web version:** While this raw dataset is incredibly useful for research and AI training, the absolute best way to consume this data is on our 100% free web app. You can search, filter by niche, and view high-res screenshots alongside hand-written CRO breakdowns. There are absolutely no paywalls.  
+> 👉 **[Browse the Free Interactive Gallery on PagesThatPrint.com](https://www.pagesthatprint.com)**
 
-A public, developer-friendly dataset cataloging high-converting SaaS landing pages, design patterns, copywriting structures, and tech stacks—mapped against **real, verified revenue data**.
+A public, developer-friendly dataset cataloging high-converting SaaS landing pages, design patterns, copywriting structures, and tech stacks mapped against **real, verified revenue data**.
 
 This repository contains the raw JSON data behind [PagesThatPrint](https://www.pagesthatprint.com), a conversion-focused inspiration gallery for startup founders, indie hackers, and CRO specialists.
 
@@ -36,7 +36,7 @@ If you want to win a design award, go to Awwwards. If you want to build a landin
 
 ## 🧠 Hand-Reviewed CRO Insights & Teardowns
 
-We don't just dump screenshots. Every startup in this dataset comes with direct **Conversion Rate Optimization (CRO) insights**. We break down *why* the page works—analyzing the headline, the social proof, the layout, and the friction points—so you can apply the exact same proven patterns to your own startup.
+We don't just dump screenshots. Every startup in this dataset comes with direct **Conversion Rate Optimization (CRO) insights**. We break down *why* the page works by analyzing the headline, the social proof, the layout, and the friction points. You can then apply the exact same proven patterns to your own startup.
 
 *(View the full visual teardowns on [PagesThatPrint.com](https://www.pagesthatprint.com))*
 
@@ -47,7 +47,7 @@ We don't just dump screenshots. Every startup in this dataset comes with direct 
 Most internet listicles and startup directories rely on self-reported revenue, estimations, or wild guesses. This dataset is different.
 
 1. **Zero Guesswork:** We do not publish estimated MRR or guess traffic-to-revenue ratios.
-2. **Direct Verification:** Every single revenue figure is verified via read-only connections to the startup's actual payment processors—including **Stripe, Polar, DodoPayments, Whop, and Superwall**.
+2. **Direct Verification:** Every single revenue figure is verified via read-only connections to the startup's actual payment processors including **Stripe, Polar, DodoPayments, Whop, and Superwall**.
 3. **TrustMRR Powered:** The verification process is powered by the **TrustMRR** verification network (created by Marc Louvion), ensuring cryptographic and API-level proof of earnings.
 
 ---
