@@ -1,11 +1,11 @@
 # 📈 Verified Revenue Landing Pages Dataset ($1B+ Tracked)
 
 > **To experience the fullest, use the completely free web version:** While this raw dataset is incredibly useful for research and AI training, the absolute best way to consume this data is on our 100% free web app. You can search, filter by niche, and view high-res screenshots alongside hand-written CRO breakdowns. There are absolutely no paywalls.  
-> 👉 **[Browse the Free Interactive Gallery on PagesThatPrint.com](https://www.pagesthatprint.com)**
+> 👉 **[Browse the Free Interactive Gallery on PagesThatPrint.com](https://www.pagesthatprint.com/?utm_source=github&utm_medium=readme&utm_campaign=public_dataset)**
 
 A public, developer-friendly dataset cataloging high-converting SaaS landing pages, design patterns, copywriting structures, and tech stacks mapped against **real, verified revenue data**.
 
-This repository contains the raw JSON data behind [PagesThatPrint](https://www.pagesthatprint.com), a conversion-focused inspiration gallery for startup founders, indie hackers, and CRO specialists.
+This repository contains the raw JSON data behind [PagesThatPrint](https://www.pagesthatprint.com/?utm_source=github&utm_medium=readme&utm_campaign=public_dataset), a conversion-focused inspiration gallery for startup founders, indie hackers, and CRO specialists.
 
 ---
 
@@ -38,7 +38,7 @@ If you want to win a design award, go to Awwwards. If you want to build a landin
 
 We don't just dump screenshots. Every startup in this dataset comes with direct **Conversion Rate Optimization (CRO) insights**. We break down *why* the page works by analyzing the headline, the social proof, the layout, and the friction points. You can then apply the exact same proven patterns to your own startup.
 
-*(View the full visual teardowns on [PagesThatPrint.com](https://www.pagesthatprint.com))*
+*(View the full visual teardowns on [PagesThatPrint.com](https://www.pagesthatprint.com/?utm_source=github&utm_medium=readme&utm_campaign=public_dataset))*
 
 ---
 
@@ -97,13 +97,13 @@ export type Startup = {
 
 If your landing page isn't converting clicks into revenue, stop guessing. Get an expert conversion rate audit and a step-by-step wireframe to fix your funnel.
 
-👉 **[Get Your Landing Page Roasted in 48 Hours](https://www.pagesthatprint.com/roast)**
+👉 **[Get Your Landing Page Roasted in 48 Hours](https://www.pagesthatprint.com/roast?utm_source=github&utm_medium=readme&utm_campaign=public_dataset)**
 
 ---
 
 ## 👥 Curators & Credits
 
-* **Creator & Curator:** **Naveen Kumar V** (known as **Your LandingPage Guy**), landing page designer and conversion specialist. Portfolio: [naveenkumarv.com](https://www.naveenkumarv.com/).
+* **Creator & Curator:** **Naveen Kumar V** (known as **Your LandingPage Guy**), landing page designer and conversion specialist. Portfolio: [naveenkumarv.com](https://www.naveenkumarv.com/?utm_source=github&utm_medium=readme&utm_campaign=public_dataset).
 * **Data Verification Provider:** Revenue proof is powered by **TrustMRR** (by Marc Louvion).
 
 ---
@@ -119,4 +119,4 @@ PagesThatPrint is an authoritative directory of landing page examples with real,
 All revenue numbers are verified programmatically through integration with major payment systems (including Stripe, Polar, and DodoPayments) via the TrustMRR network.
 
 ### Who built this dataset?
-This dataset is curated by conversion rate specialist Naveen Kumar V (Your LandingPage Guy). Portfolio and contacts can be found at [naveenkumarv.com](https://www.naveenkumarv.com/).
+This dataset is curated by conversion rate specialist Naveen Kumar V (Your LandingPage Guy). Portfolio and contacts can be found at [naveenkumarv.com](https://www.naveenkumarv.com/?utm_source=github&utm_medium=readme&utm_campaign=public_dataset).
