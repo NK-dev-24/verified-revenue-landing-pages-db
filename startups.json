@@ -1,0 +1,4684 @@
+[
+  {
+    "slug": "stan",
+    "name": "Stan",
+    "tagline": "Stan enables people to make living and work for themselves.",
+    "url": "https://stan.store",
+    "mrr": 3569654,
+    "revenue": 2795431,
+    "totalRevenue": 76600000,
+    "activeSubscriptions": 101600,
+    "verified": true,
+    "categories": [
+      "Content Creation",
+      "SaaS",
+      "B2C"
+    ],
+    "tags": [
+      "E-commerce",
+      "SaaS",
+      "B2C"
+    ],
+    "founder": "John Hu",
+    "founderTwitter": "vitaliidodonov",
+    "description": "Stan enables people to make living and work for themselves.",
+    "addedAt": "2026-06-07",
+    "trustmrrUrl": "https://trustmrr.com/startup/stan",
+    "logoUrl": "https://www.google.com/s2/favicons?domain=stan.store&sz=128",
+    "screenshotUrl": "/screenshots/Stan.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/stan?ref=nav-a09d86",
+    "revenueModel": "$29/mo flat subscription",
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": false,
+      "trustedByLogos": false,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": false
+    },
+    "colors": [
+      "#E11D48",
+      "#FFFFFF",
+      "#111827"
+    ],
+    "fonts": [
+      "Outfit",
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "PaaS",
+        "name": "Amazon Web Services"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Vue.js"
+      },
+      {
+        "category": "Analytics",
+        "name": "Northbeam"
+      },
+      {
+        "category": "Analytics",
+        "name": "Snowplow Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Microsoft Clarity"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "web-vitals"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "CDN",
+        "name": "Amazon S3"
+      },
+      {
+        "category": "CDN",
+        "name": "Amazon CloudFront"
+      },
+      {
+        "category": "SSL",
+        "name": "AWS Certificate Manager"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Advertising",
+        "name": "Google Ads"
+      }
+    ],
+    "copywriting": {
+      "h1": "Make a living working for yourself",
+      "subtitle": "The all-in-one store for creators. Start selling your digital products in minutes.",
+      "ctaCount": 3,
+      "primaryCta": "Create Your Store",
+      "secondaryCta": "View Pricing"
+    },
+    "anomaly": {
+      "title": "The Creator Identity",
+      "description": "They sell the dream of independence, not just a storefront. 'Make a living working for yourself' is a powerful emotional hook."
+    },
+    "wouldItWorkForYou": {
+      "description": "Sell the end goal, not the mechanism. Creators don't want a store, they want freedom."
+    },
+    "croInsights": [
+      {
+        "title": "Mobile-First Visuals",
+        "description": "Creators live on their phones. The screenshots are all mobile mockups."
+      },
+      {
+        "title": "Zero-Friction Pitch",
+        "description": "'Start selling in minutes' overcomes the fear of technical setup."
+      },
+      {
+        "title": "Social Proof",
+        "description": "Showcasing successful creators makes the dream feel attainable."
+      }
+    ]
+  },
+  {
+    "slug": "trendtrack",
+    "name": "Trendtrack",
+    "tagline": "SaaS Ecommerce software for in-depth analysis of competitors, new trends, and ads....",
+    "url": "https://trendtrack.io",
+    "mrr": 406483.07,
+    "revenue": 357384.55041396426,
+    "totalRevenue": 2108696.0806888556,
+    "verified": true,
+    "categories": [
+      "Analytics",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "E-commerce",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "vincent_alonzi",
+    "description": "SaaS Ecommerce software for in-depth analysis of competitors, new trends, and ads.\nThe goal is to help our clients understand what works in ecommerce, how, and why, enabling them to improve their business.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T05:56:14.918Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/trendtrack",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUUJLRjBGYjdrdzZqTUxNfGZsX2xpdmVfbHRLZnBwOEFHVUFBRGM2OXZzY0Q1RjJ500QBMcGU2z",
+    "screenshotUrl": "/screenshots/Trendtrack.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/trendtrack?ref=nav-a09d86",
+    "activeSubscriptions": 4660,
+    "profitMargin": 0,
+    "growth30d": 12.703918581195595,
+    "growthMRR30d": 24.182269605398204,
+    "country": "AE",
+    "foundedDate": "2024-10-18",
+    "croInsights": [
+      {
+        "title": "Data-Heavy Proof",
+        "description": "Showing actual dashboards with numbers proves the tool works."
+      },
+      {
+        "title": "The 'Stop Guessing' Angle",
+        "description": "Agitating the pain of wasted ad spend drives urgency."
+      },
+      {
+        "title": "Clear Feature Tiers",
+        "description": "Breaking down exactly what data you get (ads, trends, competitors)."
+      }
+    ],
+    "copywriting": {
+      "h1": "Spy on winning ecommerce trends",
+      "subtitle": "In-depth analysis of competitors, new trends, and ads. Stop guessing what works.",
+      "ctaCount": 2,
+      "primaryCta": "Start Tracking",
+      "secondaryCta": "Book a Demo"
+    },
+    "colors": [
+      "#3B82F6",
+      "#0F172A",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Page builders",
+        "name": "Webflow"
+      },
+      {
+        "category": "Programming languages",
+        "name": "PHP"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "GSAP"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Instant.Page"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Lenis"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Swiper"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Analytics",
+        "name": "Hyros"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "FirstPromoter"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "CDN",
+        "name": "jsDelivr"
+      },
+      {
+        "category": "CDN",
+        "name": "Bunny"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "CRM",
+        "name": "Intercom"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      }
+    ],
+    "anomaly": {
+      "title": "The 'Spy' Framing",
+      "description": "Using words like 'analysis' is boring. But implying you can 'spy' on competitors hits the exact psychology of dropshippers."
+    },
+    "wouldItWorkForYou": {
+      "description": "If you offer competitive intelligence, make it sound like a secret weapon."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": true,
+      "trustedByLogos": false,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "rezi",
+    "name": "Rezi",
+    "tagline": "Most people agree this is the best resume builder in the world.\n\nWe have about 1M new users every ye",
+    "url": "https://www.rezi.ai",
+    "mrr": 272509.92,
+    "revenue": 255257.10553649624,
+    "totalRevenue": 9318318.446314275,
+    "verified": true,
+    "categories": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2C"
+    ],
+    "tags": [
+      "SaaS",
+      "B2C"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "jacob_jacquet",
+    "description": "Most people agree this is the best resume builder in the world.\n\nWe have about 1M new users every year. \n\nRezi Enterprise, a new and growing product, supports over 300 organizations, including 1 fortune 500, and multiple universities. \n\nWe are now working to allow companies a way to connect with job seekers, and bridge the gap between company and job seeker while bringing transparency to job seekers.",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/rezi",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xNjU2azhFZDZLMDJLdlRJfGZsX2xpdmVfVk1GTlpteDVxc2NYSHZuSk1uYTMySlJY00gfSiGyIm",
+    "screenshotUrl": "/screenshots/Rezi.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/rezi?ref=nav-a09d86",
+    "activeSubscriptions": 11287,
+    "profitMargin": 60,
+    "growth30d": -8.246761455138374,
+    "growthMRR30d": -7.434269174471461,
+    "country": "US",
+    "foundedDate": "2015-05-22",
+    "croInsights": [
+      {
+        "title": "Massive Social Proof",
+        "description": "'1M users' and 'Fortune 500' drops nuclear-level authority."
+      },
+      {
+        "title": "Outcome-Based CTA",
+        "description": "'Build My Resume' is clear, direct, and actionable."
+      },
+      {
+        "title": "The B2B Pivot",
+        "description": "Mentioning the enterprise product adds legitimacy to the consumer side."
+      }
+    ],
+    "copywriting": {
+      "h1": "The smartest resume builder in the world",
+      "subtitle": "Built to beat the ATS and get you hired. Over 1M users land more interviews.",
+      "ctaCount": 3,
+      "primaryCta": "Build My Resume",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#2563EB",
+      "#FFFFFF",
+      "#1E293B"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Page builders",
+        "name": "Webflow"
+      },
+      {
+        "category": "Issue trackers",
+        "name": "Sentry"
+      },
+      {
+        "category": "Authentication",
+        "name": "Google Sign-in"
+      },
+      {
+        "category": "Video players",
+        "name": "Wistia"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "GSAP"
+      },
+      {
+        "category": "Analytics",
+        "name": "Linkedin Insight Tag"
+      },
+      {
+        "category": "Analytics",
+        "name": "Amplitude"
+      },
+      {
+        "category": "Analytics",
+        "name": "Plausible"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Analytics",
+        "name": "Crazy Egg"
+      },
+      {
+        "category": "CDN",
+        "name": "Google Hosted Libraries"
+      },
+      {
+        "category": "CDN",
+        "name": "cdnjs"
+      },
+      {
+        "category": "CDN",
+        "name": "jsDelivr"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Clickbank"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Rewardful"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "LottieFiles"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      }
+    ],
+    "anomaly": {
+      "title": "The ATS Angle",
+      "description": "They don't just say 'make a pretty resume'. They specifically target the ATS (Applicant Tracking System) fear. That's the real reason people buy."
+    },
+    "wouldItWorkForYou": {
+      "description": "Find the hidden, technical fear your customer has (like the ATS bot rejecting them) and position your product as the shield."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": false
+    }
+  },
+  {
+    "slug": "kibu",
+    "name": "Kibu",
+    "tagline": "Content, compliance, and EHR (Electronic Health Record) software platform built specifically for pro...",
+    "url": "https://kibu.com",
+    "mrr": 234318.6,
+    "revenue": 200210.1,
+    "totalRevenue": 3096046.85,
+    "verified": true,
+    "categories": [
+      "Education",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "ddcaridi",
+    "description": "Content, compliance, and EHR (Electronic Health Record) software platform built specifically for provider organizations serving people with intellectual and developmental disabilities (I/DD). \n\nIt helps these organizations teach people with special needs while managing regulatory compliance, documentation, and care delivery across hundreds of organizations and 48 states.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T05:56:14.918Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/kibu",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xS0prYTNMMHVzY1lYblM1fGZsX2xpdmVfakNMWHVobWp5VW1hRHVJTmxQS2pmbDFL00zNXDL6Lx",
+    "screenshotUrl": "/screenshots/Kibu.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/kibu?ref=nav-a09d86",
+    "activeSubscriptions": 375,
+    "profitMargin": 0,
+    "growth30d": -25.625577329263788,
+    "growthMRR30d": 52.82579616374884,
+    "country": "US",
+    "foundedDate": "2022-01-19",
+    "croInsights": [
+      {
+        "title": "Enterprise CTA",
+        "description": "'Request Demo' is standard, but necessary for complex, high-ticket compliance software."
+      },
+      {
+        "title": "Scale Metrics",
+        "description": "Mentioning '48 states' proves they can handle cross-state compliance."
+      },
+      {
+        "title": "Dual Value Prop",
+        "description": "They balance 'teaching people' (mission) with 'managing compliance' (business need)."
+      }
+    ],
+    "copywriting": {
+      "h1": "Compliance and Care, Handled.",
+      "subtitle": "The only EHR platform built specifically for I/DD provider organizations.",
+      "ctaCount": 2,
+      "primaryCta": "Request Demo",
+      "secondaryCta": "View Curriculum"
+    },
+    "colors": [
+      "#059669",
+      "#FFFFFF",
+      "#064E3B"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Framer Motion"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Email",
+        "name": "LiveIntent"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "Tailwind CSS"
+      }
+    ],
+    "anomaly": {
+      "title": "Extreme Specialization",
+      "description": "They explicitly state they are 'built specifically for I/DD'. This instantly alienates 99% of the market, but makes the 1% they want convert at insane rates."
+    },
+    "wouldItWorkForYou": {
+      "description": "If you serve a highly regulated or specific industry, put it in the H1. General tools lose to specific tools in B2B."
+    },
+    "features": {
+      "testimonials": false,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": true,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "cometly",
+    "name": "Cometly",
+    "tagline": "Marketing attribution and analytics for SaaS companies. Use AI to chat with your ads data.",
+    "url": "https://www.cometly.com",
+    "mrr": 200400.12,
+    "revenue": 202962.81,
+    "totalRevenue": 9091338.39,
+    "verified": true,
+    "categories": [
+      "Analytics",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Marketing",
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "heygrantcooper",
+    "description": "Marketing attribution and analytics for SaaS companies. Use AI to chat with your ads data.",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/cometly",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xSGd3dktCd0VNMUVIckwzfGZsX2xpdmVfUlJWa0pvdnFDakw1ejFDbWlKOXljbUdR00Day9e6iG",
+    "screenshotUrl": "/screenshots/cometly.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/cometly?ref=nav-a09d86",
+    "activeSubscriptions": 320,
+    "profitMargin": 90,
+    "growth30d": 0.33092532889243464,
+    "growthMRR30d": -3.1372040083644985,
+    "country": "US",
+    "foundedDate": "2020-10-27",
+    "croInsights": [
+      {
+        "title": "Niche Focus",
+        "description": "They specify 'for SaaS companies', cutting out e-commerce noise."
+      },
+      {
+        "title": "Curiosity CTA",
+        "description": "'See How It Works' is low-friction and drives people to the demo video."
+      },
+      {
+        "title": "Attribution Pain",
+        "description": "Targeting 'attribution' hits the biggest pain point of SaaS marketers."
+      }
+    ],
+    "copywriting": {
+      "h1": "Chat with your ad data",
+      "subtitle": "Marketing attribution and analytics for SaaS companies powered by AI.",
+      "ctaCount": 2,
+      "primaryCta": "See How It Works",
+      "secondaryCta": "Book a Demo"
+    },
+    "colors": [
+      "#8B5CF6",
+      "#0F172A",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Analytics",
+        "name": "Vercel Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Linkedin Insight Tag"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "RSS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "PWA"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Advertising",
+        "name": "AdRoll"
+      },
+      {
+        "category": "Advertising",
+        "name": "Linkedin Ads"
+      },
+      {
+        "category": "Development",
+        "name": "Turbopack"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "Tailwind CSS"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      }
+    ],
+    "anomaly": {
+      "title": "The AI Interface Shift",
+      "description": "Instead of pitching 'better dashboards', they pitch 'chat with your data'. It turns a boring analytics tool into a magical AI assistant."
+    },
+    "wouldItWorkForYou": {
+      "description": "If your app is complex, add an AI chat layer and market *that* as the primary feature. It drastically lowers the perceived learning curve."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": true,
+      "trustedByLogos": false,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "postiz",
+    "name": "Postiz",
+    "tagline": "Postiz is the ultimate agentic social media scheduler tool",
+    "url": "https://postiz.com",
+    "mrr": 133102,
+    "revenue": 122445.68,
+    "totalRevenue": 536586.79,
+    "verified": true,
+    "categories": [
+      "Social Media",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "wickedguro",
+    "description": "Postiz is the ultimate agentic social media scheduler tool",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/postiz",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUGcyTU5MbzZxMVFSM0w1fGZsX2xpdmVfTWFMVHA5c2IzUHpTRzNzTTlNaW5LZ3Zt00Jaoqr9tH",
+    "screenshotUrl": "/screenshots/postiz.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/postiz?ref=nav-a09d86",
+    "activeSubscriptions": 3965,
+    "profitMargin": 0,
+    "growth30d": 25.714337344894776,
+    "growthMRR30d": 21.814839954545185,
+    "country": "HK",
+    "foundedDate": "2024-07-24",
+    "croInsights": [
+      {
+        "title": "The 'True Autopilot' Promise",
+        "description": "Differentiating from schedulers that still require you to write the posts."
+      },
+      {
+        "title": "Brand Voice",
+        "description": "Addressing the fear that AI sounds robotic by promising it 'understands your brand'."
+      },
+      {
+        "title": "High-Contrast UI",
+        "description": "Dark mode UI makes the colorful social logos pop."
+      }
+    ],
+    "copywriting": {
+      "h1": "The ultimate agentic social media scheduler",
+      "subtitle": "Put your social media on true autopilot with AI agents that actually understand your brand.",
+      "ctaCount": 2,
+      "primaryCta": "Start Automating",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#F97316",
+      "#111827",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "CMS",
+        "name": "WordPress"
+      },
+      {
+        "category": "Databases",
+        "name": "MySQL"
+      },
+      {
+        "category": "Programming languages",
+        "name": "PHP"
+      },
+      {
+        "category": "Video players",
+        "name": "YouTube"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "SEO",
+        "name": "Yoast SEO"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Advertising",
+        "name": "Google Ads"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Analytics",
+        "name": "Cloudflare Browser Insights"
+      },
+      {
+        "category": "Analytics",
+        "name": "Plausible"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Ads Conversion Tracking"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Product Hunt"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      }
+    ],
+    "anomaly": {
+      "title": "The 'Agentic' Keyword",
+      "description": "They aren't just an 'AI tool'. They use the word 'agentic', implying the software acts on its own. It's the next evolution of automation marketing."
+    },
+    "wouldItWorkForYou": {
+      "description": "Upgrade your terminology. If you do automation, call it 'agentic'. It sounds newer, smarter, and more expensive."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": true,
+      "trustedByLogos": false,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "teachizy-sas-maj-digital",
+    "name": "Teachizy",
+    "tagline": "Teachizy est le moyen le plus facile de créer une formation en ligne et en blended learning pour dig...",
+    "url": "https://www.teachizy.fr",
+    "mrr": 68105.5,
+    "revenue": 65500.90757278762,
+    "totalRevenue": 2498394.8580114,
+    "verified": true,
+    "categories": [
+      "Education",
+      "SaaS",
+      "B2B",
+      "B2C"
+    ],
+    "tags": [
+      "SaaS",
+      "B2B",
+      "B2C"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "ledevultime",
+    "description": "Teachizy est le moyen le plus facile de créer une formation en ligne et en blended learning pour digitaliser son parcours de formation.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T12:53:49.571Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/teachizy-sas-maj-digital",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xR1RWanhEVHNodEd5RFVHfGZsX2xpdmVfcVJjMjlPNjlnd0ZudDNTUmQzdGVTTXlk00T4scfATW",
+    "screenshotUrl": "/screenshots/teachizy.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/teachizy-sas-maj-digital?ref=nav-a09d86",
+    "activeSubscriptions": 1064,
+    "profitMargin": 0,
+    "growth30d": -7.738980328109851,
+    "growthMRR30d": -2.71767189624278,
+    "country": "FR",
+    "foundedDate": "2020-04-02",
+    "croInsights": [
+      {
+        "title": "Low Friction CTA",
+        "description": "'Start for free' with no credit card required removes the final mental block."
+      },
+      {
+        "title": "Show, Don't Tell",
+        "description": "They show screenshots of the clean course builder right away."
+      },
+      {
+        "title": "Language Localization",
+        "description": "The French-first approach dominates their local market before expanding."
+      }
+    ],
+    "copywriting": {
+      "h1": "Create online courses the easy way",
+      "subtitle": "Teachizy is the simplest way to create and sell your online courses, without the tech headaches.",
+      "ctaCount": 3,
+      "primaryCta": "Start for free",
+      "secondaryCta": "View Curriculum"
+    },
+    "colors": [
+      "#5A32FA",
+      "#FFFFFF",
+      "#F3F4F6"
+    ],
+    "fonts": [
+      "Poppins",
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "CMS",
+        "name": "WordPress"
+      },
+      {
+        "category": "Databases",
+        "name": "MySQL"
+      },
+      {
+        "category": "Programming languages",
+        "name": "PHP"
+      },
+      {
+        "category": "WordPress themes",
+        "name": "Hello Elementor"
+      },
+      {
+        "category": "Video players",
+        "name": "YouTube"
+      },
+      {
+        "category": "Caching",
+        "name": "WP Rocket"
+      },
+      {
+        "category": "WordPress plugins",
+        "name": "RankMath SEO"
+      },
+      {
+        "category": "WordPress plugins",
+        "name": "Elementor"
+      },
+      {
+        "category": "Analytics",
+        "name": "VWO"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery UI"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery Migrate"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Swiper"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "Live chat",
+        "name": "Crisp Live Chat"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "RSS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "Anti-Tech Positioning",
+      "description": "The entire page is built around 'the easiest way'. They know their target audience (creators/teachers) hates complex software."
+    },
+    "wouldItWorkForYou": {
+      "description": "If your competitors are feature-heavy and complex, win by being the 'dumb simple' alternative."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": true,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "speel-co",
+    "name": "Speel.co",
+    "tagline": "Use AI to generate realistic UGC-style videos and images for ads and socials.",
+    "url": "https://speel.co",
+    "mrr": 65843.04,
+    "revenue": 0,
+    "totalRevenue": 180965.83,
+    "verified": true,
+    "categories": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Content Creation",
+      "Marketing",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "yanndine",
+    "description": "Use AI to generate realistic UGC-style videos and images for ads and socials. Launched in October, went from 0 to 1M ARR in 3 months.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T13:12:30.754Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/speel-co",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUzFuWFRDcjMxZDVmU1QwfGZsX2xpdmVfRDNIMlBaUktjMG9mUDhtZDdwZjBBalIw003gO6nc4a",
+    "screenshotUrl": "/screenshots/speel.webp",
+    "forSale": true,
+    "askingPrice": "$500k",
+    "affiliateUrl": "https://trustmrr.com/startup/speel-co?ref=nav-a09d86",
+    "activeSubscriptions": 1115,
+    "profitMargin": 30,
+    "growth30d": 252.54487461985894,
+    "growthMRR30d": 0,
+    "country": "FR",
+    "foundedDate": "2025-08-30",
+    "revenueModel": "Credit-based AI Generation",
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    },
+    "colors": [
+      "#2589FF",
+      "#FFFFFF",
+      "#1E1E1E"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Page builders",
+        "name": "Webflow"
+      },
+      {
+        "category": "Video players",
+        "name": "Vimeo"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "GSAP"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Clickbank"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Rewardful"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Analytics",
+        "name": "Contentsquare"
+      },
+      {
+        "category": "Live chat",
+        "name": "Crisp Live Chat"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "Immediate Proof of Product",
+      "description": "Instead of a boring explainer text, the hero section immediately shows a grid of realistic UGC videos. For an AI tool, seeing the output quality is the only thing that matters. They don't just say it works; they show it."
+    },
+    "wouldItWorkForYou": {
+      "description": "This works perfectly for visual products like AI, design, or video tools. If your product creates something cool, put it right in the hero section. Do not hide your product behind a boring signup wall."
+    },
+    "copywriting": {
+      "h1": "Create AI UGC Videos That Feel Real",
+      "subtitle": "Generate lifelike influencer-style videos where AI avatars hold and talk about your products. Ready for Meta ads, Tiktok and Reels in under 3 minutes.",
+      "ctaCount": 5,
+      "primaryCta": "Try for free",
+      "secondaryCta": "Book a Demo"
+    },
+    "croInsights": [
+      {
+        "title": "The Frictionless CTA",
+        "description": "The button says 'Try for free', not 'Sign Up'. It makes starting feel easy. You have no risk and no reason not to click."
+      },
+      {
+        "title": "The 3-Step Process",
+        "description": "They explain a complex AI process in 3 simple steps: Select actor, write script, generate. This makes the user feel smart and capable."
+      },
+      {
+        "title": "Addressing The Fake Objection",
+        "description": "AI video often looks fake. Their headline addresses this directly by saying 'That Feel Real'. They solve the customer's doubt before it even starts."
+      }
+    ]
+  },
+  {
+    "slug": "pixelpainters-com",
+    "name": "PixelPainters.com",
+    "tagline": "Unlimited graphics for your church, created by Christian designers....",
+    "url": "https://pixelpainters.com",
+    "mrr": 61139.43,
+    "revenue": 53811.1,
+    "totalRevenue": 2118237.73,
+    "verified": true,
+    "categories": [
+      "Design Tools",
+      "Agency",
+      "B2B"
+    ],
+    "tags": [
+      "Agency",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "joshstarr",
+    "description": "Unlimited graphics for your church, created by Christian designers.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T12:53:49.571Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/pixelpainters-com",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/pixel-painters-253ffe76-ba03-488d-a587-a69a3043ff81.png",
+    "screenshotUrl": "/screenshots/pixelpainters.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/pixelpainters-com?ref=nav-a09d86",
+    "activeSubscriptions": 128,
+    "profitMargin": 42,
+    "growth30d": -5.551645396768006,
+    "growthMRR30d": -5.277636907669887,
+    "country": "US",
+    "foundedDate": "2019-01-29",
+    "croInsights": [
+      {
+        "title": "The 'Unlimited' Model",
+        "description": "Productized services win when they offer 'unlimited' value for a flat fee. It removes price friction."
+      },
+      {
+        "title": "Portfolio First",
+        "description": "They let the quality of the graphics do the selling before asking for the sale."
+      },
+      {
+        "title": "Value Alignment",
+        "description": "Mentioning 'Christian designers' aligns with the buyer's core values."
+      }
+    ],
+    "copywriting": {
+      "h1": "Unlimited graphics for your church",
+      "subtitle": "Created by Christian designers who understand your mission. No more generic stock photos.",
+      "ctaCount": 2,
+      "primaryCta": "See Pricing",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#0F172A",
+      "#FFFFFF",
+      "#38BDF8"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Video players",
+        "name": "YouTube"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React Router"
+      },
+      {
+        "category": "PaaS",
+        "name": "Amazon Web Services"
+      },
+      {
+        "category": "Security",
+        "name": "Cloudflare Bot Management"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Clickbank"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Rewardful"
+      },
+      {
+        "category": "Analytics",
+        "name": "Tinybird"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Framer Motion"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "Hyper-Niche Targeting",
+      "description": "They don't sell 'graphics'. They sell 'graphics for churches by Christian designers'. This builds insane, instant trust with their exact demographic."
+    },
+    "wouldItWorkForYou": {
+      "description": "Niche down until it hurts. When you speak to a specific group, your conversion rate explodes because they feel you 'get' them."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "seobot",
+    "name": "SEOBOT",
+    "tagline": "SeoBOT - AI Agent for SEO (keywords, research, blog, mini apps, pSEO and more)",
+    "url": "https://seobotai.com",
+    "mrr": 60321,
+    "revenue": 60669,
+    "totalRevenue": 1701041.14,
+    "verified": true,
+    "categories": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "johnrushx",
+    "description": "SeoBOT - AI Agent for SEO (keywords, research, blog, mini apps, pSEO and more)",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/seobot",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/seobot-864dbd07-3b67-48ee-99c4-4c40aa159438.jpg",
+    "screenshotUrl": "/screenshots/seobotai.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/seobot?ref=nav-a09d86",
+    "activeSubscriptions": 814,
+    "profitMargin": 0,
+    "growth30d": -16.39046722609398,
+    "growthMRR30d": -9.731533580749431,
+    "country": "TR",
+    "foundedDate": "2023-09-23",
+    "croInsights": [
+      {
+        "title": "All-in-One List",
+        "description": "Listing 'keywords, research, blog...' immediately shows the breadth of the tool."
+      },
+      {
+        "title": "The Programmatic SEO Hook",
+        "description": "pSEO is a hot buzzword. Including it grabs high-intent tech founders."
+      },
+      {
+        "title": "Dark Theme Authority",
+        "description": "Dark mode gives it a 'hacker/developer' vibe that builds trust in the tech space."
+      }
+    ],
+    "copywriting": {
+      "h1": "Your fully autonomous SEO Agent",
+      "subtitle": "Keywords, research, blog posts, and programmatic SEO on autopilot.",
+      "ctaCount": 2,
+      "primaryCta": "Deploy Your Agent",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#14B8A6",
+      "#0F172A",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Development",
+        "name": "MarsX"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "GSAP"
+      },
+      {
+        "category": "PaaS",
+        "name": "Amazon Web Services"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Typed.js"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Tolt"
+      },
+      {
+        "category": "CDN",
+        "name": "jsDelivr"
+      },
+      {
+        "category": "CDN",
+        "name": "cdnjs"
+      },
+      {
+        "category": "CDN",
+        "name": "Bunny"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "Analytics",
+        "name": "Umami"
+      },
+      {
+        "category": "Analytics",
+        "name": "Microsoft Clarity"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Reviews",
+        "name": "Senja"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "Live chat",
+        "name": "Intercom"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Product Hunt"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      }
+    ],
+    "anomaly": {
+      "title": "The 'Deploy' CTA",
+      "description": "The button doesn't say 'Sign Up'. It says 'Deploy Your Agent'. It makes the user feel like a commander launching a weapon."
+    },
+    "wouldItWorkForYou": {
+      "description": "Match your CTA copy to the identity of your product. If it's an agent, 'deploy' it. If it's a course, 'unlock' it."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": false,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": true,
+      "faq": true
+    }
+  },
+  {
+    "slug": "backpedal-ltd",
+    "name": "BackPedal Ltd",
+    "tagline": "GPS tracking and 24/7 recovery for your bike or ebike. If it gets stolen, we get it back.  Customers...",
+    "url": "https://www.backpedal.co/",
+    "mrr": 58745.83,
+    "revenue": 95518.10802812049,
+    "totalRevenue": 1221590.4304865364,
+    "verified": true,
+    "categories": [
+      "Security",
+      "B2C"
+    ],
+    "tags": [
+      "B2C"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "dunn27_james",
+    "description": "GPS tracking and 24/7 recovery for your bike or ebike. If it gets stolen, we get it back.\n\nCustomers pay an upfront fee for the tracker and a recurring monthly subscription.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T12:53:49.571Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/backpedal-ltd",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xSmFHTFBMSkFEUng2SEdJfGZsX2xpdmVfRnlsb3E5MmVqRTJhOTU3WDZ3QnpIMWVa00A6GYnMVC",
+    "screenshotUrl": "/screenshots/backpedal.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/backpedal-ltd?ref=nav-a09d86",
+    "activeSubscriptions": 354,
+    "profitMargin": 0,
+    "growth30d": 22.812042850804712,
+    "growthMRR30d": 72.5931413403021,
+    "country": "GB",
+    "foundedDate": "2021-09-16",
+    "croInsights": [
+      {
+        "title": "Emotional Hook",
+        "description": "The H1 hits the deepest fear of bike owners: theft. It's raw and direct."
+      },
+      {
+        "title": "Clear Recurring Model",
+        "description": "They separate the hardware cost from the subscription, making the barrier to entry feel lower."
+      },
+      {
+        "title": "Visual Proof",
+        "description": "Showing the physical tracker builds tangible trust for a digital-first service."
+      }
+    ],
+    "copywriting": {
+      "h1": "If it gets stolen, we get it back.",
+      "subtitle": "GPS tracking and 24/7 recovery for your bike or ebike. No more panic.",
+      "ctaCount": 2,
+      "primaryCta": "Get Protected Today",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#111111",
+      "#FFFFFF",
+      "#FF3366"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Issue trackers",
+        "name": "Sentry"
+      },
+      {
+        "category": "Video players",
+        "name": "Vimeo"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Web frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "Web servers",
+        "name": "Next.js"
+      },
+      {
+        "category": "Static site generator",
+        "name": "Next.js"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      }
+    ],
+    "anomaly": {
+      "title": "The Bold Promise",
+      "description": "They don't sell 'GPS trackers'. They sell 'If it gets stolen, we get it back'. This is a massive, risk-reversing promise that kills all hesitation."
+    },
+    "wouldItWorkForYou": {
+      "description": "What is the ultimate, scary problem your customer has? Promise to fix that exact problem in one sentence, and guarantee it."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": true,
+      "faq": true
+    }
+  },
+  {
+    "slug": "post-bridge",
+    "name": "POST BRIDGE",
+    "tagline": "Post your content to multiple social media platforms at the same time, all-in one place....",
+    "url": "https://www.post-bridge.com",
+    "mrr": 40357.67,
+    "revenue": 37825.99,
+    "totalRevenue": 347129.11,
+    "verified": true,
+    "categories": [
+      "Social Media",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Content Creation",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "jackfriks",
+    "description": "Post your content to multiple social media platforms at the same time, all-in one place.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T12:53:49.571Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/post-bridge",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/post-bridge-943fbb4a-24ac-4ccf-a43b-398a41ee3b51.jpg",
+    "screenshotUrl": "/screenshots/post bridge.webp",
+    "forSale": true,
+    "askingPrice": "$4690k",
+    "affiliateUrl": "https://trustmrr.com/startup/post-bridge?ref=nav-a09d86",
+    "activeSubscriptions": 1597,
+    "profitMargin": 92,
+    "growth30d": -4.243745375277407,
+    "growthMRR30d": 4.606837680683935,
+    "country": "CA",
+    "foundedDate": "2024-09-30",
+    "croInsights": [
+      {
+        "title": "Visual Platform Logos",
+        "description": "Showing logos of Twitter, LinkedIn, etc., instantly answers the 'does it support X?' question."
+      },
+      {
+        "title": "Action-Oriented CTA",
+        "description": "'Start Scheduling' is better than 'Sign Up' because it implies immediate action."
+      },
+      {
+        "title": "Clean Dashboard Shot",
+        "description": "Showing a clean UI proves the 'all-in-one' promise."
+      }
+    ],
+    "copywriting": {
+      "h1": "Post everywhere at once",
+      "subtitle": "Post your content to multiple social media platforms at the same time, all-in one place. Save hours every week.",
+      "ctaCount": 3,
+      "primaryCta": "Start Scheduling",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#6366F1",
+      "#1E1B4B",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "Tailwind CSS"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Web servers",
+        "name": "Next.js"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      }
+    ],
+    "anomaly": {
+      "title": "The Time-Saving Angle",
+      "description": "They focus purely on the time saved, not the features. The hero is all about 'all-in one place'."
+    },
+    "wouldItWorkForYou": {
+      "description": "If your tool saves time, quantify it. Tell them exactly how many hours they get back."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": true,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "simple-analytics",
+    "name": "Simple Analytics",
+    "tagline": "We build and sell software for businesses....",
+    "url": "https://www.simpleanalytics.com",
+    "mrr": 38909.37,
+    "revenue": 33197.25119453302,
+    "totalRevenue": 1727539.795343815,
+    "verified": true,
+    "categories": [
+      "Analytics",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "simpleanalytic",
+    "description": "We build and sell software for businesses.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T13:12:33.101Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/simple-analytics",
+    "logoUrl": "",
+    "screenshotUrl": "/screenshots/Simple Analytics.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/simple-analytics?ref=nav-a09d86",
+    "activeSubscriptions": 1309,
+    "profitMargin": 0,
+    "growth30d": -13.173045381453289,
+    "growthMRR30d": -0.6355498595875485,
+    "country": "NL",
+    "foundedDate": "2018-08-04",
+    "croInsights": [
+      {
+        "title": "Visualizing the Pain",
+        "description": "The hero section has a literal chart showing a massive drop-off called 'The Data Gap'. Visual proof is 10x stronger than text."
+      },
+      {
+        "title": "The 'Fix It' Command",
+        "description": "Further down, they say 'Don't replace your analytics. Fix it.' This removes the friction of switching tools entirely. They position themselves as an add-on, which is way easier to sell."
+      },
+      {
+        "title": "Zero-Friction Bullet Points",
+        "description": "They use green checkmarks for 'No consent needed', 'No tracking restrictions'. It's short, punchy, and hits all the exact pain points of using Google Analytics."
+      }
+    ],
+    "copywriting": {
+      "h1": "Your analytics miss up to 60% of your website traffic",
+      "subtitle": "Most analytics tools only measure users who accept tracking. The rest of your traffic stays invisible. Capture the data others miss without cookies or consent banners.",
+      "ctaCount": 3,
+      "primaryCta": "Start for free",
+      "secondaryCta": "Book a Demo"
+    },
+    "colors": [
+      "#FF4B55",
+      "#203135",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "UI frameworks",
+        "name": "Headless UI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Vue.js"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Nuxt.js"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Pinia"
+      },
+      {
+        "category": "Analytics",
+        "name": "Simple Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Piwik PRO Core"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "RSS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "PWA"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "Leading with the Problem, Not the Product",
+      "description": "They don't say 'We are a privacy-first analytics tool'. They say 'You are losing 60% of your data'. That induces panic. You HAVE to read the rest of the page to find the fix."
+    },
+    "wouldItWorkForYou": {
+      "description": "If your product fixes a hidden leak in your customer's business, agitate the hell out of that leak in the H1. Make them realize they are bleeding money or data before you ever pitch your product."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": true,
+      "darkLightToggle": true,
+      "faq": true
+    }
+  },
+  {
+    "slug": "bullgpt-io",
+    "name": "bullgpt.io",
+    "tagline": "Get pro-level analysis instantly with AI.",
+    "url": "https://www.bullgpt.io",
+    "mrr": 34041.81,
+    "revenue": 61443.77,
+    "totalRevenue": 108562.77,
+    "verified": true,
+    "categories": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Analytics",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "0xveutino",
+    "description": "Get pro-level analysis instantly with AI.",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/bullgpt-io",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/bullgpt-io-9dd9d289-7d36-4b1a-a1d6-967ab8dcca85.png",
+    "screenshotUrl": "/screenshots/Bullgpt.webp",
+    "forSale": true,
+    "askingPrice": "$520k",
+    "affiliateUrl": "https://trustmrr.com/startup/bullgpt-io?ref=nav-a09d86",
+    "activeSubscriptions": 841,
+    "profitMargin": 68,
+    "growth30d": 121.72871266602436,
+    "growthMRR30d": 19.350764119136223,
+    "country": "US",
+    "foundedDate": "2025-09-30",
+    "croInsights": [
+      {
+        "title": "Speed Promise",
+        "description": "The word 'instantly' is crucial for traders who need real-time data."
+      },
+      {
+        "title": "Authority Borrowing",
+        "description": "'Pro-level' makes retail traders feel like they are getting Wall Street tools."
+      },
+      {
+        "title": "High-Contrast Gold",
+        "description": "Using gold/yellow on black is the universal color scheme for premium crypto tools."
+      }
+    ],
+    "copywriting": {
+      "h1": "Pro-level crypto analysis, instantly.",
+      "subtitle": "Get actionable market insights powered by AI. Stop trading blind.",
+      "ctaCount": 2,
+      "primaryCta": "Analyze Now",
+      "secondaryCta": "Book a Demo"
+    },
+    "colors": [
+      "#EAB308",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "UI frameworks",
+        "name": "Radix UI"
+      },
+      {
+        "category": "Video players",
+        "name": "Vimeo"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Analytics",
+        "name": "Umami"
+      },
+      {
+        "category": "Analytics",
+        "name": "TikTok Pixel"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Framer Motion"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      }
+    ],
+    "anomaly": {
+      "title": "The FOMO Agitator",
+      "description": "'Stop trading blind' directly attacks the user's insecurity about losing money. In crypto, fear of missing out or losing is the primary driver."
+    },
+    "wouldItWorkForYou": {
+      "description": "In finance/trading niches, agitate the fear of losing money to force action."
+    },
+    "features": {
+      "testimonials": false,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "launch-club",
+    "name": "Launch Club",
+    "tagline": "Reddit marketing to improve AI search.  SaaS helping business owners learn how to promote their prod...",
+    "url": "https://launchclub.ai",
+    "mrr": 33500,
+    "revenue": 53608.229999999996,
+    "totalRevenue": 997964.18,
+    "verified": true,
+    "categories": [
+      "Marketing",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Social Media",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "kensavage",
+    "description": "Reddit marketing to improve AI search.  SaaS helping business owners learn how to promote their products. Also provide tools and content creation for members.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T05:56:14.917Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/launch-club",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTUNCRWFFc3lQbG9IVHpGfGZsX2xpdmVfcFBLZEh6eWk0WXRoQ2swU1VtSVFrcVpq00m5noohtz",
+    "screenshotUrl": "/screenshots/launchclub.webp",
+    "forSale": true,
+    "askingPrice": "$3000k",
+    "affiliateUrl": "https://trustmrr.com/startup/launch-club?ref=nav-a09d86",
+    "activeSubscriptions": 15,
+    "profitMargin": 81,
+    "growth30d": -30.2935271222525,
+    "growthMRR30d": -40.707964601769916,
+    "country": "US",
+    "foundedDate": "2022-12-07",
+    "croInsights": [
+      {
+        "title": "Exclusivity",
+        "description": "Calling it a 'Club' instead of a course or tool makes people want in."
+      },
+      {
+        "title": "Target Audience",
+        "description": "Calling out 'SaaS founders' directly filters the audience."
+      },
+      {
+        "title": "Color Psychology",
+        "description": "Using Reddit's exact orange/red hex code creates instant subconscious recognition."
+      }
+    ],
+    "copywriting": {
+      "h1": "Dominate Reddit. Rank higher on AI.",
+      "subtitle": "The private club for SaaS founders mastering Reddit marketing to hack AI search engines.",
+      "ctaCount": 2,
+      "primaryCta": "Join the Club",
+      "secondaryCta": "See Case Studies"
+    },
+    "colors": [
+      "#FF4500",
+      "#FFFFFF",
+      "#111827"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Search engines",
+        "name": "Algolia"
+      },
+      {
+        "category": "Programming languages",
+        "name": "Node.js"
+      },
+      {
+        "category": "Databases",
+        "name": "Firebase"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI"
+      },
+      {
+        "category": "Page builders",
+        "name": "Bubble"
+      },
+      {
+        "category": "Web frameworks",
+        "name": "Express"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "PaaS",
+        "name": "Amazon Web Services"
+      },
+      {
+        "category": "PaaS",
+        "name": "Railway"
+      },
+      {
+        "category": "CDN",
+        "name": "jsDelivr"
+      },
+      {
+        "category": "CDN",
+        "name": "cdnjs"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "html2canvas"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Clipboard.js"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery Migrate"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Analytics",
+        "name": "Cloudflare Browser Insights"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Security",
+        "name": "Cloudflare Bot Management"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Advertising",
+        "name": "Twitter Ads"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "Live chat",
+        "name": "Crisp Live Chat"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      }
+    ],
+    "anomaly": {
+      "title": "The Double Benefit",
+      "description": "They link Reddit marketing directly to 'AI search'. They took an old strategy (Reddit) and tied it to the hottest new trend (AI SEO)."
+    },
+    "wouldItWorkForYou": {
+      "description": "Repackage your existing service by tying its outcome to the latest tech trend."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": true,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "uhoh-com",
+    "name": "uhoh.com",
+    "tagline": "The first IT help desk that's free to try and priced by you.",
+    "url": "https://uhoh.com",
+    "mrr": 29428.82,
+    "revenue": 35398.79901009667,
+    "totalRevenue": 302439.586424438,
+    "verified": true,
+    "categories": [
+      "Customer Support"
+    ],
+    "tags": [],
+    "founder": "Anonymous",
+    "founderTwitter": "imintomoms",
+    "description": "The first IT help desk that's free to try and priced by you.",
+    "addedAt": "2026-06-14",
+    "lastUpdated": "2026-06-14T18:11:12.464Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/uhoh-com",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/uhoh-31dc4354-140e-4f67-b313-e97812cc2090.png",
+    "screenshotUrl": "/screenshots/uhoh-com.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/uhoh-com?ref=nav-a09d86",
+    "activeSubscriptions": 23,
+    "profitMargin": 0,
+    "growth30d": 22.319261275508715,
+    "growthMRR30d": 5.215664054489954,
+    "country": "CA",
+    "foundedDate": "2025-06-18",
+    "revenueModel": "Productized Service / Flat-fee Subscription",
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": false,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": true,
+      "darkLightToggle": false,
+      "faq": false
+    },
+    "colors": [
+      "#000000",
+      "#FCFBF5",
+      "#E256F8"
+    ],
+    "fonts": [
+      "Syne",
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Page builders",
+        "name": "Webflow",
+        "iconUrl": "https://www.crft.studio/icons/webflow.svg",
+        "techUrl": "https://webflow.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "CDN",
+        "name": "Google Hosted Libraries",
+        "iconUrl": "https://www.crft.studio/icons/Google%20Developers.svg",
+        "techUrl": "https://developers.google.com/speed/libraries?utm_source=crftLookup"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare",
+        "iconUrl": "https://www.crft.studio/icons/CloudFlare.svg",
+        "techUrl": "https://www.cloudflare.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery",
+        "iconUrl": "https://www.crft.studio/icons/jQuery.svg",
+        "techUrl": "https://jquery.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js",
+        "iconUrl": "https://www.crft.studio/icons/core-js.png",
+        "techUrl": "https://github.com/zloirock/core-js?utm_source=crftLookup"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager",
+        "iconUrl": "https://www.crft.studio/icons/Google%20Tag%20Manager.svg",
+        "techUrl": "https://www.google.com/tagmanager?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics",
+        "iconUrl": "https://www.crft.studio/icons/Google%20Analytics.svg",
+        "techUrl": "https://google.com/analytics?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel",
+        "iconUrl": "https://www.crft.studio/icons/Facebook.svg",
+        "techUrl": "https://facebook.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Security",
+        "name": "Cloudflare Turnstile",
+        "iconUrl": "https://www.crft.studio/icons/CloudFlare.svg",
+        "techUrl": "https://www.cloudflare.com/products/turnstile?utm_source=crftLookup"
+      },
+      {
+        "category": "Security",
+        "name": "reCAPTCHA",
+        "iconUrl": "https://www.crft.studio/icons/reCAPTCHA.svg",
+        "techUrl": "https://www.google.com/recaptcha/?utm_source=crftLookup"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS",
+        "iconUrl": "https://www.crft.studio/icons/default.svg",
+        "techUrl": "https://www.rfc-editor.org/rfc/rfc6797#section-6.1?utm_source=crftLookup"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API",
+        "iconUrl": "https://www.crft.studio/icons/Google%20Font%20API.svg",
+        "techUrl": "https://google.com/fonts?utm_source=crftLookup"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight",
+        "iconUrl": "https://www.crft.studio/icons/DoubleClick.svg",
+        "techUrl": "https://support.google.com/ds/answer/6029713?hl=en?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack",
+        "iconUrl": "https://www.crft.studio/icons/Webpack.svg",
+        "techUrl": "https://webpack.js.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph",
+        "iconUrl": "https://www.crft.studio/icons/Open%20Graph.svg",
+        "techUrl": "https://ogp.me/?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3",
+        "iconUrl": "https://www.crft.studio/icons/HTTP3.svg",
+        "techUrl": "https://httpwg.org/?utm_source=crftLookup"
+      }
+    ],
+    "copywriting": {
+      "h1": "You're the boss, why are you still fixing tech issues?",
+      "subtitle": "It doesn't just annoy you. It slows you and your staff down. That's our job now.",
+      "primaryCta": "Let us prove it*",
+      "secondaryCta": "Try it risk-free",
+      "ctaCount": 5
+    },
+    "croInsights": [
+      {
+        "title": "Agitation Framework",
+        "description": "The headline directly agitates a specific pain point of founders ('why are you still fixing tech issues?'). Instead of selling IT support, they sell time and sanity."
+      },
+      {
+        "title": "Playful Honesty",
+        "description": "The asterisk under the CTA says '* You have to promise us that you\\'ll dump all your problems on us'. The bottom CTA says 'Dude, you\\'re at the bottom... Don\\'t make me beg.' This highly casual, humorous tone builds massive brand affinity."
+      },
+      {
+        "title": "Illustrated Storytelling",
+        "description": "The site avoids generic stock photos. It uses custom comic-style illustrations showing frustrated people and error messages. This makes an incredibly boring service (IT support) feel fun, approachable, and human."
+      }
+    ],
+    "anomaly": {
+      "title": "The Self-Deprecating Bottom CTA",
+      "description": "Instead of a polished final sales pitch, the bottom CTA literally says 'Dude, you\\'re at the bottom of our landing page. Just get the free trial already if you\\'re that interested.' This pattern interrupt is highly effective for breaking sales resistance."
+    },
+    "wouldItWorkForYou": {
+      "description": "If you sell a deeply unsexy service (IT, accounting, compliance) to stressed founders, injecting humor and custom illustrations is the ultimate way to stand out. Empathy + Humor = Conversion."
+    }
+  },
+  {
+    "slug": "datafast",
+    "name": "DataFast",
+    "tagline": "Revenue-first analytics for startup founders",
+    "url": "https://datafa.st",
+    "mrr": 23002.08,
+    "revenue": 19878.2,
+    "totalRevenue": 192293.67,
+    "verified": true,
+    "categories": [
+      "Analytics",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "marclou",
+    "description": "Revenue-first analytics for startup founders",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/datafast",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUFh0d21FSWVCUjVYSWpmfGZsX2xpdmVfbTdjN3JWMGtjbWlISWoyaVJLVzFxMVA200rgEMPTYU",
+    "screenshotUrl": "/screenshots/datafast.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/datafast?ref=nav-a09d86",
+    "activeSubscriptions": 1177,
+    "profitMargin": 0,
+    "growth30d": -6.43815095719456,
+    "growthMRR30d": 0.8406277856527181,
+    "country": "SG",
+    "foundedDate": "2024-07-01",
+    "croInsights": [
+      {
+        "title": "Identity Targeting",
+        "description": "Specifically for 'startup founders', not 'marketers'."
+      },
+      {
+        "title": "Actionable CTA",
+        "description": "'See Your Revenue' is a direct benefit, not a feature."
+      },
+      {
+        "title": "Clean Data Visualization",
+        "description": "The hero image shows a rising MRR chart—the ultimate founder dream."
+      }
+    ],
+    "copywriting": {
+      "h1": "Revenue-first analytics for founders",
+      "subtitle": "Stop looking at vanity metrics. See exactly what drives your MRR.",
+      "ctaCount": 2,
+      "primaryCta": "See Your Revenue",
+      "secondaryCta": "Book a Demo"
+    },
+    "colors": [
+      "#3B82F6",
+      "#FFFFFF",
+      "#0F172A"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Amazon Web Services"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Analytics",
+        "name": "Vercel Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Mux"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Clickbank"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Rewardful"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Lodash"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Goober"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "The Anti-Vanity Frame",
+      "description": "They attack pageviews and clicks, positioning 'revenue' as the only metric that matters. Founders love this no-BS approach."
+    },
+    "wouldItWorkForYou": {
+      "description": "Call out the vanity metrics in your industry and position your product as the 'truth'."
+    },
+    "features": {
+      "testimonials": false,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "pushouse",
+    "name": "Pushouse",
+    "tagline": "Pushouse provides software and technology services that enable e-commerce businesses to automate cus",
+    "url": "https://pushouse.com",
+    "mrr": 19688.11,
+    "revenue": 29233.36275713041,
+    "totalRevenue": 126712.7618290572,
+    "verified": true,
+    "categories": [
+      "E-commerce",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "description": "Pushouse provides software and technology services that enable e-commerce businesses to automate customer communication, marketing, and sales processes through WhatsApp and other digital channels. The platform offers WhatsApp automation, AI-powered chat flows, order notifications, customer support automation, digital marketing tools, and integration services with e-commerce systems to improve customer experience and increase online sales.",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/pushouse",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/pushouse-c2d1b38b-66f8-44c9-a385-df1c44b53b2b.jpg",
+    "screenshotUrl": "/screenshots/pushouse.webp",
+    "forSale": true,
+    "askingPrice": "$875k",
+    "affiliateUrl": "https://trustmrr.com/startup/pushouse?ref=nav-a09d86",
+    "activeSubscriptions": 148,
+    "profitMargin": 35,
+    "growth30d": -4.127324325050813,
+    "growthMRR30d": 6.173865561326439,
+    "country": "AE",
+    "foundedDate": "2026-01-16",
+    "croInsights": [
+      {
+        "title": "Familiar Colors",
+        "description": "Using WhatsApp's exact green builds instant platform trust."
+      },
+      {
+        "title": "E-commerce Focus",
+        "description": "Calling out 'order automation' speaks directly to e-com store owners' pain points."
+      },
+      {
+        "title": "Feature Density",
+        "description": "Listing the exact integrations (Shopify, etc.) proves it works with their stack."
+      }
+    ],
+    "copywriting": {
+      "h1": "Automate your WhatsApp sales",
+      "subtitle": "Turn WhatsApp into your highest converting channel with AI flows and order automation.",
+      "ctaCount": 3,
+      "primaryCta": "Start Automating",
+      "secondaryCta": "View All Products"
+    },
+    "colors": [
+      "#25D366",
+      "#FFFFFF",
+      "#1E293B"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Analytics",
+        "name": "Vercel Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Cloudflare Browser Insights"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Marketing automation",
+        "name": "Pushouse"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Framer Motion"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "AOS"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      }
+    ],
+    "anomaly": {
+      "title": "The Channel-Specific Promise",
+      "description": "They don't say 'omnichannel'. They say 'WhatsApp'. By owning a specific, high-conversion channel, they become the obvious choice for LatAm/Euro markets."
+    },
+    "wouldItWorkForYou": {
+      "description": "If a specific channel drives all the results, make your entire homepage about that channel. Don't dilute the message."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": false,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": true,
+      "faq": true
+    }
+  },
+  {
+    "slug": "brainrot-mov",
+    "name": "Brainrot.mov",
+    "tagline": "peter griffin reels generator (10M+ followers generated 10B+ views generated)",
+    "url": "https://brainrot.mov",
+    "mrr": 18925.5,
+    "revenue": 18480.53,
+    "totalRevenue": 101650.06,
+    "verified": true,
+    "categories": [
+      "Content Creation",
+      "B2C"
+    ],
+    "tags": [
+      "Social Media",
+      "Artificial Intelligence",
+      "B2C"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "cjthetechg",
+    "description": "peter griffin reels generator (10M+ followers generated 10B+ views generated)",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T05:56:14.917Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/brainrot-mov",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/brainrot-mov-793a5c1c-35e3-48a0-8fb1-469448578048.png",
+    "screenshotUrl": "/screenshots/brainrot-mov.webp",
+    "forSale": true,
+    "askingPrice": "$300k",
+    "affiliateUrl": "https://trustmrr.com/startup/brainrot-mov?ref=nav-a09d86",
+    "activeSubscriptions": 782,
+    "profitMargin": 65,
+    "growth30d": -18.793715304513672,
+    "growthMRR30d": -14.074247587671252,
+    "country": "US",
+    "foundedDate": "2023-05-14",
+    "croInsights": [
+      {
+        "title": "Insane Social Proof",
+        "description": "'10 Billion views' is a nuclear-level stat that immediately validates the tool."
+      },
+      {
+        "title": "Immediate Output",
+        "description": "The hero is likely just a hilarious, loud video playing immediately."
+      },
+      {
+        "title": "Frictionless CTA",
+        "description": "'Make a Reel' promises instant gratification."
+      }
+    ],
+    "copywriting": {
+      "h1": "Generate viral brainrot in seconds",
+      "subtitle": "The ultimate Peter Griffin reels generator. Over 10 Billion views generated.",
+      "ctaCount": 2,
+      "primaryCta": "Make a Reel",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#8B5CF6",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide"
+      },
+      {
+        "category": "Appointment scheduling",
+        "name": "Calendly"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      }
+    ],
+    "anomaly": {
+      "title": "Owning the Cringe",
+      "description": "They literally call it 'brainrot'. They don't try to make it sound professional. They know exactly what the product is and who it's for."
+    },
+    "wouldItWorkForYou": {
+      "description": "Use your customer's exact slang. If they call it 'brainrot', you call it 'brainrot'. Stop trying to sound corporate."
+    },
+    "features": {
+      "testimonials": false,
+      "userCount": false,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "facekit",
+    "name": "FaceKit",
+    "tagline": "Highly profitable & scalable consumer app in the looksmaxxing / face analysis niche. Most unique and",
+    "url": "https://facekitapp.com",
+    "mrr": 16532.96416666667,
+    "revenue": 24927.57,
+    "totalRevenue": 165703.09,
+    "verified": true,
+    "categories": [
+      "Mobile App",
+      "B2C"
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "B2C"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "rafkramer",
+    "description": "Highly profitable & scalable consumer app in the looksmaxxing / face analysis niche. Most unique and accurate app in this space. Includes very valuable data in the backend - to be elaborated on.",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/facekit",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/facekit-adf19ce2-cd74-42f5-b2a2-cf111bfbd672.png",
+    "screenshotUrl": "/screenshots/facekitapp.webp",
+    "forSale": true,
+    "askingPrice": "$1000k",
+    "affiliateUrl": "https://trustmrr.com/startup/facekit?ref=nav-a09d86",
+    "activeSubscriptions": 3501,
+    "profitMargin": 90,
+    "growth30d": 37.73736179335728,
+    "growthMRR30d": 15.993037014318118,
+    "foundedDate": "2025-12-10",
+    "croInsights": [
+      {
+        "title": "The 'Brutal' Promise",
+        "description": "Promising 'brutal' accuracy appeals to the target audience who wants harsh truths, not platitudes."
+      },
+      {
+        "title": "App Store Badges",
+        "description": "Immediate trust signals for a consumer app."
+      },
+      {
+        "title": "Data Privacy",
+        "description": "For an app scanning faces, they likely have a clear privacy disclaimer near the CTA."
+      }
+    ],
+    "copywriting": {
+      "h1": "The ultimate looksmaxxing analyzer",
+      "subtitle": "Get brutal, accurate AI face analysis and actionable advice to improve your appearance.",
+      "ctaCount": 2,
+      "primaryCta": "Scan Your Face",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#3B82F6"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Page builders",
+        "name": "Framer Sites"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Framer Motion"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      }
+    ],
+    "anomaly": {
+      "title": "Leaning into the Niche",
+      "description": "They use the term 'looksmaxxing'. This is a hyper-specific internet subculture term. It proves they are authentic to that community."
+    },
+    "wouldItWorkForYou": {
+      "description": "If you serve a weird internet subculture, use their exact terminology. It acts as a shibboleth."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": true,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "comp-ai",
+    "name": "Comp AI",
+    "tagline": "The fastest way to get compliant with cyber security frameworks like SOC 2 and ISO 27001.",
+    "url": "https://trycomp.ai",
+    "mrr": 15167.33,
+    "revenue": 524800.87,
+    "totalRevenue": 3433580.07,
+    "verified": true,
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "tags": [
+      "nextjs",
+      "prisma",
+      "vercel",
+      "postgresql",
+      "docker",
+      "tailwindcss",
+      "typescript"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "lewiscarhart",
+    "description": "The fastest way to get compliant with cyber security frameworks like SOC 2 and ISO 27001.",
+    "addedAt": "2026-06-14",
+    "lastUpdated": "2026-06-14T18:04:40.125Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/comp-ai",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/bubba-ai-inc-a7ead591-62f5-4479-b6e2-c90910068261.jpg",
+    "screenshotUrl": "/screenshots/comp-ai.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/comp-ai?ref=nav-a09d86",
+    "activeSubscriptions": 41,
+    "profitMargin": 0,
+    "growth30d": -2.9386316274721347,
+    "growthMRR30d": 9.77828174382978,
+    "country": "US",
+    "foundedDate": "2025-01-03",
+    "revenueModel": "B2B SaaS / Custom Pricing",
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": false,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    },
+    "colors": [
+      "#134638",
+      "#FFFFFF",
+      "#F5F5F5"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "copywriting": {
+      "h1": "Compliance that helps you close deals.",
+      "subtitle": "SOC 2, ISO 27001, HIPAA, and GDPR - automated with 560+ integrations. We get you audit-ready.",
+      "primaryCta": "Get Started",
+      "secondaryCta": "Book Demo",
+      "ctaCount": 8
+    },
+    "croInsights": [
+      {
+        "title": "Outcome-Driven H1",
+        "description": "The headline doesn't say 'The best compliance automation tool'. It says 'Compliance that helps you close deals.' This speaks directly to the core desire of B2B founders: revenue."
+      },
+      {
+        "title": "Continuous Email Capture",
+        "description": "Instead of making the user scroll all the way back up or hunt for a sticky header, they embed a low-friction 'Enter your work email -> Get Started' input field sequentially after *every* single major value proposition section."
+      },
+      {
+        "title": "Proof Over Promise",
+        "description": "The top hero includes a G2 rating badge (4.9/5) floating directly above the headline. This establishes immediate, unshakeable trust before the user even reads the value prop."
+      }
+    ],
+    "anomaly": {
+      "title": "The 'Book Demo' vs 'Get Started' Dual CTA",
+      "description": "In the nav bar they have both 'Book Demo' (sales-led) and 'Get Started' (product-led or self-serve). But in the main page flow, they heavily prioritize the low-friction email capture field ('Enter your work email') to get users into the funnel immediately, rather than forcing them to book a call."
+    },
+    "wouldItWorkForYou": {
+      "description": "This layout is the gold standard for high-ACV (Annual Contract Value) B2B SaaS. If you are selling a complex, high-trust product to enterprise or mid-market, use this long-form, highly detailed, trust-heavy structure."
+    },
+    "techStack": [
+      {
+        "category": "UI frameworks",
+        "name": "Radix UI",
+        "iconUrl": "https://www.crft.studio/icons/Radix%20UI.svg",
+        "techUrl": "https://www.radix-ui.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI",
+        "iconUrl": "https://www.crft.studio/icons/HeroUI.svg",
+        "techUrl": "https://nextui.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React",
+        "iconUrl": "https://www.crft.studio/icons/React.svg",
+        "techUrl": "https://reactjs.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js",
+        "iconUrl": "https://www.crft.studio/icons/Next.js.svg",
+        "techUrl": "https://nextjs.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel",
+        "iconUrl": "https://www.crft.studio/icons/vercel.svg",
+        "techUrl": "https://vercel.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Advertising",
+        "name": "Twitter Ads",
+        "iconUrl": "https://www.crft.studio/icons/Twitter.svg",
+        "techUrl": "https://ads.twitter.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight",
+        "iconUrl": "https://www.crft.studio/icons/DoubleClick.svg",
+        "techUrl": "https://support.google.com/ds/answer/6029713?hl=en?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog",
+        "iconUrl": "https://www.crft.studio/icons/PostHog.svg",
+        "techUrl": "https://posthog.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics",
+        "iconUrl": "https://www.crft.studio/icons/Google%20Analytics.svg",
+        "techUrl": "https://google.com/analytics?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel",
+        "iconUrl": "https://www.crft.studio/icons/Facebook.svg",
+        "techUrl": "https://facebook.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Linkedin Insight Tag",
+        "iconUrl": "https://www.crft.studio/icons/Linkedin.svg",
+        "techUrl": "https://business.linkedin.com/marketing-solutions/insight-tag?utm_source=crftLookup"
+      },
+      {
+        "category": "Marketing automation",
+        "name": "HubSpot",
+        "iconUrl": "https://www.crft.studio/icons/HubSpot.svg",
+        "techUrl": "https://www.hubspot.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager",
+        "iconUrl": "https://www.crft.studio/icons/Google%20Tag%20Manager.svg",
+        "techUrl": "https://www.google.com/tagmanager?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Framer Motion",
+        "iconUrl": "https://www.crft.studio/icons/FramerMotion.svg",
+        "techUrl": "https://motion.dev/?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js",
+        "iconUrl": "https://www.crft.studio/icons/core-js.png",
+        "techUrl": "https://github.com/zloirock/core-js?utm_source=crftLookup"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints",
+        "iconUrl": "https://www.crft.studio/icons/Priority%20Hints.svg",
+        "techUrl": "https://wicg.github.io/priority-hints/?utm_source=crftLookup"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide",
+        "iconUrl": "https://www.crft.studio/icons/Lucide.svg",
+        "techUrl": "https://lucide.dev/?utm_source=crftLookup"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS",
+        "iconUrl": "https://www.crft.studio/icons/default.svg",
+        "techUrl": "https://www.rfc-editor.org/rfc/rfc6797#section-6.1?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack",
+        "iconUrl": "https://www.crft.studio/icons/Webpack.svg",
+        "techUrl": "https://webpack.js.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "PWA",
+        "iconUrl": "https://www.crft.studio/icons/PWA.svg",
+        "techUrl": "https://web.dev/progressive-web-apps/?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph",
+        "iconUrl": "https://www.crft.studio/icons/Open%20Graph.svg",
+        "techUrl": "https://ogp.me/?utm_source=crftLookup"
+      }
+    ]
+  },
+  {
+    "slug": "synta",
+    "name": "Synta",
+    "tagline": "A premium model context protocol (MCP) server and web app designed to turn AI clients like Claude, C",
+    "url": "https://synta.io",
+    "mrr": 14625.69,
+    "revenue": 14141.16784579688,
+    "totalRevenue": 99003.25808225771,
+    "verified": true,
+    "categories": [
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "description": "A premium model context protocol (MCP) server and web app designed to turn AI clients like Claude, Cursor, and OpenClaw into expert n8n workflow architects, with over 300+ businesses using it daily to create, edit, test, refine and self-heal n8n workflows, cutting n8n workflow creation and management time by 80% on average",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/synta",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUzY3bzFGTVNBWXRyeVpufGZsX2xpdmVfR28za1lRU0lWU1M4TFJwMmJZbU9Xempw00PlafVi4u",
+    "screenshotUrl": "/screenshots/synta.webp",
+    "forSale": true,
+    "askingPrice": "$200k",
+    "affiliateUrl": "https://trustmrr.com/startup/synta?ref=nav-a09d86",
+    "activeSubscriptions": 322,
+    "profitMargin": 92,
+    "growth30d": -14.342171584127836,
+    "growthMRR30d": -10.182253999359997,
+    "foundedDate": "2025-09-11",
+    "croInsights": [
+      {
+        "title": "The 80% Metric",
+        "description": "Quantifying the time saved ('80%') makes the ROI obvious."
+      },
+      {
+        "title": "Developer Aesthetics",
+        "description": "Using monospace fonts and dark mode signals this is a serious tool for technical people."
+      },
+      {
+        "title": "B2B Proof",
+        "description": "'300+ businesses' proves it's not just a toy project."
+      }
+    ],
+    "copywriting": {
+      "h1": "Turn Claude into an n8n Architect",
+      "subtitle": "The premium MCP server that cuts n8n workflow creation time by 80%.",
+      "ctaCount": 2,
+      "primaryCta": "Get Synta",
+      "secondaryCta": "Book a Demo"
+    },
+    "colors": [
+      "#EA580C",
+      "#111827",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter",
+      "Fira Code"
+    ],
+    "techStack": [
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Live chat",
+        "name": "Chatwoot"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide"
+      },
+      {
+        "category": "Appointment scheduling",
+        "name": "Calendly"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "Piggybacking Giants",
+      "description": "They use 'Claude' and 'n8n' in the H1. They are completely hitching their wagon to two massive, high-intent ecosystems."
+    },
+    "wouldItWorkForYou": {
+      "description": "If your product is a bridge between two popular tools, make the H1 literally 'Turn [Tool A] into a [Tool B] expert'."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": true,
+      "faq": true
+    }
+  },
+  {
+    "slug": "virvid-ai",
+    "name": "Virvid.ai",
+    "tagline": "AI shorts generator that helps creators and businesses turn ideas into viral faceless videos for Tik",
+    "url": "https://virvid.ai",
+    "mrr": 9507,
+    "revenue": 12395.372343276471,
+    "totalRevenue": 40773.63040982105,
+    "verified": true,
+    "categories": [
+      "Content Creation",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "Social Media",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "virvidai",
+    "description": "AI shorts generator that helps creators and businesses turn ideas into viral faceless videos for TikTok, Instagram and YouTube, all on autopilot. Just set it up once and watch your channel grow.",
+    "addedAt": "2024-03-01",
+    "lastUpdated": "2026-06-06T20:10:16.578Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/virvid-ai",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xU01yNDk0R05xOElNM2lSfGZsX2xpdmVfYktiOTl1V2NobzBmYUw3RFB1Mk5RVjFC00VJ2g2aZE",
+    "screenshotUrl": "/screenshots/virvid.webp",
+    "forSale": true,
+    "askingPrice": "$80k",
+    "affiliateUrl": "https://trustmrr.com/startup/virvid-ai?ref=nav-a09d86",
+    "activeSubscriptions": 208,
+    "profitMargin": 70,
+    "growth30d": 36.85266782791153,
+    "growthMRR30d": 18.482053838484546,
+    "country": "FR",
+    "foundedDate": "2025-10-27",
+    "croInsights": [
+      {
+        "title": "The 'Autopilot' Promise",
+        "description": "'Set it up once' is the ultimate lazy-income dream."
+      },
+      {
+        "title": "Platform Logos",
+        "description": "Showing the TikTok/Reels logos proves it works where they want to post."
+      },
+      {
+        "title": "Low Risk CTA",
+        "description": "'Generate Free Video' proves value before asking for money."
+      }
+    ],
+    "copywriting": {
+      "h1": "Viral faceless videos on autopilot",
+      "subtitle": "Turn ideas into TikToks, Reels, and Shorts. Set it up once and watch your channel grow.",
+      "ctaCount": 3,
+      "primaryCta": "Generate Free Video",
+      "secondaryCta": "View Pricing"
+    },
+    "colors": [
+      "#EC4899",
+      "#0F172A",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Issue trackers",
+        "name": "Sentry"
+      },
+      {
+        "category": "Development",
+        "name": "Supabase"
+      },
+      {
+        "category": "Databases",
+        "name": "PostgreSQL"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "HeroUI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Analytics",
+        "name": "Vercel Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "PostHog"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "FirstPromoter"
+      },
+      {
+        "category": "JavaScript graphics",
+        "name": "dc.js"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Product Hunt"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "PWA"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "The 'Faceless' Niche",
+      "description": "They specifically target the 'faceless channel' trend. This attracts a massive audience of people who want to be creators but are camera-shy."
+    },
+    "wouldItWorkForYou": {
+      "description": "Identify the biggest objection to doing the work (being on camera) and make your product the exact solution to that objection."
+    },
+    "features": {
+      "testimonials": false,
+      "userCount": false,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "avium",
+    "name": "Avium",
+    "tagline": "Personal Branding Agency for World-Class Experts. We build the online visibility infrastructure for ...",
+    "url": "https://avium.vip",
+    "mrr": 6650,
+    "revenue": 11355,
+    "totalRevenue": 394597.409968947,
+    "verified": true,
+    "categories": [
+      "Agency",
+      "B2B"
+    ],
+    "tags": [
+      "Marketing",
+      "Social Media",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "bleonavicius",
+    "description": "Personal Branding Agency for World-Class Experts. We build the online visibility infrastructure for keynote speakers, book authors, and founders whose real-world authority outpaces their online presence.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T13:12:29.996Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/avium",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/bdm-business-58201603-797d-4cf3-a713-289b74e0e871.jpg",
+    "screenshotUrl": "/screenshots/avium.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/avium?ref=nav-a09d86",
+    "activeSubscriptions": 5,
+    "profitMargin": 80,
+    "growth30d": 92.45762711864407,
+    "growthMRR30d": -29.25531914893617,
+    "country": "LT",
+    "foundedDate": "2019-10-01",
+    "croInsights": [
+      {
+        "title": "The Problem-First Subtitle",
+        "description": "Look at the subtitle: 'You're well-known in your world. Your online presence hasn't caught up yet.' It hits a massive pain point for experts immediately. They feel seen. It builds trust instantly."
+      },
+      {
+        "title": "The 'Available Now' Badge",
+        "description": "Right next to the main CTA, there's a green dot that says '3 new client spots left'. This is basic scarcity, but it works like magic. It forces action right now instead of 'I'll book later'."
+      },
+      {
+        "title": "Faces Over Logos",
+        "description": "Instead of just putting boring company logos, they put actual faces of people they helped right under the CTA. People trust people. Seeing a real human face increases the feeling of safety."
+      }
+    ],
+    "copywriting": {
+      "h1": "The Visibility Engine for World-Class Experts",
+      "subtitle": "You're well-known in your world. Your online presence hasn't caught up yet. We fix that.",
+      "ctaCount": 2,
+      "primaryCta": "Book a strategy call",
+      "secondaryCta": "See Case Studies"
+    },
+    "colors": [
+      "#EBEBEB",
+      "#2A3A3F",
+      "#D25D38"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Page builders",
+        "name": "Framer Sites",
+        "description": "Framer is primarily a design and prototyping tool. It allows you to design interactive prototypes of websites and applications using production components and real data."
+      },
+      {
+        "category": "UI frameworks",
+        "name": "UIKit",
+        "description": "UIKit is the framework used for developing iOS applications."
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React",
+        "description": "React is an open-source JavaScript library for building user interfaces or UI components.",
+        "url": "https://react.dev"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Lenis",
+        "description": "Lenis is a smooth scroll library to normalise the scrolling experience across devices."
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Framer Motion",
+        "description": "Framer Motion is a modern animation library for JavaScript, React, and Vue."
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager",
+        "description": "Google Tag Manager is a tag management system (TMS) that allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app."
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics",
+        "description": "Google Analytics is a free web analytics service that tracks and reports website traffic."
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints",
+        "description": "Priority Hints exposes a mechanism for developers to signal a relative priority for browsers to consider when fetching resources."
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API",
+        "description": "Google Font API is a web service that supports open-source font files that can be used on your web designs."
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight",
+        "description": ""
+      },
+      {
+        "category": "Security",
+        "name": "HSTS",
+        "description": "HTTP Strict Transport Security (HSTS) informs browsers that the site should only be accessed using HTTPS."
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph",
+        "description": "Open Graph is a protocol that is used to integrate any web page into the social graph."
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3",
+        "description": "HTTP/3 is the third major version of the Hypertext Transfer Protocol used to exchange information on the World Wide Web."
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Sitemap",
+        "description": ""
+      }
+    ],
+    "anomaly": {
+      "title": "The Anti-Agency Vibe",
+      "description": "They don't call themselves a 'full service marketing agency'. They call themselves an 'infrastructure' and an 'engine'. This reframes what they do from an expense to an asset. It completely separates them from cheap freelancers."
+    },
+    "wouldItWorkForYou": {
+      "description": "If you sell high-ticket B2B services, steal this framing. Stop selling the 'service' and start selling the 'system'. Your conversion rate will skyrocket because people hate buying services, but they love buying assets."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": false,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": true,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "defined-chase",
+    "name": "Defined Chase",
+    "tagline": "Our agency offers specialized digital marketing solutions tailored to drive measurable growth for bu...",
+    "url": "https://www.definedchase.com",
+    "mrr": 5917.72,
+    "revenue": 105929.6487659796,
+    "totalRevenue": 2110160.0718605113,
+    "verified": true,
+    "categories": [
+      "Agency",
+      "B2B"
+    ],
+    "tags": [
+      "Marketing",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "vytisbareika",
+    "description": "Our agency offers specialized digital marketing solutions tailored to drive measurable growth for businesses. Clients are typically billed during the checkout process upon confirming their chosen service package.",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T13:12:31.531Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/defined-chase",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTzdCakVINE1jQjBIVnZhfGZsX2xpdmVfaDc5cHJ6NzRUY0V0b0dKZDVhOW5uSFhK00CSuCzTNi",
+    "screenshotUrl": "/screenshots/definedchase.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/defined-chase?ref=nav-a09d86",
+    "activeSubscriptions": 9,
+    "profitMargin": 0,
+    "growth30d": 1.546035217916788,
+    "growthMRR30d": -1.4751104222975697,
+    "country": "LT",
+    "foundedDate": "2023-10-31",
+    "croInsights": [
+      {
+        "title": "The High-Value Lead Magnet",
+        "description": "Their CTA isn't 'Contact Us'. It's 'GET YOUR FREE GROWTH AUDIT'. They are offering massive free value in exchange for a meeting. This converts way better than a generic contact form."
+      },
+      {
+        "title": "The Wall of Logos",
+        "description": "They have a massive grid of huge company logos right under the hero. When you see big brands trusting them, you automatically assume they are top-tier."
+      },
+      {
+        "title": "Red for Action",
+        "description": "The buttons are a bright, aggressive red on a dark background. Your eyes are literally forced to look at the CTA. It's impossible to miss."
+      }
+    ],
+    "copywriting": {
+      "h1": "Turn your ad spend into measurable profit. We've helped clients drive $250M+ - now it's your turn",
+      "subtitle": "Performance digital marketing agency trusted to drive $220M+ in tracked revenue for SaaS, DTC, B2B, and subscription apps.",
+      "ctaCount": 4,
+      "primaryCta": "GET YOUR FREE GROWTH AUDIT",
+      "secondaryCta": "See Case Studies"
+    },
+    "colors": [
+      "#E62929",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Montserrat",
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "CMS",
+        "name": "WordPress"
+      },
+      {
+        "category": "Databases",
+        "name": "MySQL"
+      },
+      {
+        "category": "Programming languages",
+        "name": "PHP"
+      },
+      {
+        "category": "Page builders",
+        "name": "Divi"
+      },
+      {
+        "category": "WordPress plugins",
+        "name": "RankMath SEO"
+      },
+      {
+        "category": "CDN",
+        "name": "Unpkg"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "Analytics",
+        "name": "Nimbata"
+      },
+      {
+        "category": "Analytics",
+        "name": "Cloudflare Browser Insights"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery Migrate"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "jQuery"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Easy Pie Chart"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Swiper"
+      },
+      {
+        "category": "Marketing automation",
+        "name": "HubSpot"
+      },
+      {
+        "category": "Widgets",
+        "name": "FitVids.JS"
+      },
+      {
+        "category": "Cookie compliance",
+        "name": "Cookiebot"
+      },
+      {
+        "category": "Cookie compliance",
+        "name": "Cookie Control"
+      },
+      {
+        "category": "Cookie compliance",
+        "name": "Cybot"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Google Font API"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "RSS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "PWA"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      }
+    ],
+    "anomaly": {
+      "title": "The Massive Number Hook",
+      "description": "They put '$250M+' right in the headline. They don't talk about 'creating synergized campaigns'. They hit you with cold, hard cash numbers immediately. It screams authority."
+    },
+    "wouldItWorkForYou": {
+      "description": "If you have a crazy big number you've generated for clients, put it in your H1. Stop hiding your best proof at the bottom of the page. Flex it immediately."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": false,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "codefast",
+    "name": "CodeFast",
+    "tagline": "A course to learn how to code in days, not years...",
+    "url": "https://codefa.st",
+    "mrr": 0,
+    "revenue": 7929,
+    "totalRevenue": 804363,
+    "verified": true,
+    "categories": [
+      "Education",
+      "B2C"
+    ],
+    "tags": [
+      "B2C"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "marclou",
+    "description": "A course to learn how to code in days, not years",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T13:12:32.351Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/codefast",
+    "logoUrl": "https://files.stripe.com/links/MDB8YWNjdF8xUG5WYmdBbUJKUzg0emJ4fGZsX2xpdmVfY21NelVhcGZJV2x5cjJsTEtzdDdzUHBZ00eoiCqLtv",
+    "screenshotUrl": "/screenshots/codefast.jpg",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/codefast?ref=nav-a09d86",
+    "activeSubscriptions": 0,
+    "profitMargin": 44,
+    "growth30d": 78.86307241145951,
+    "growthMRR30d": 0,
+    "country": "SG",
+    "foundedDate": "2024-08-14",
+    "croInsights": [
+      {
+        "title": "The Timeframe Promise",
+        "description": "The H1 says 'weeks, not months'. People are impatient. Promising a faster result is the easiest way to increase conversions."
+      },
+      {
+        "title": "The 'Even if' Subtitle",
+        "description": "The subtitle says 'even as a complete beginner'. This instantly kills the biggest objection: 'What if I'm not smart enough?'"
+      },
+      {
+        "title": "The Founder's Story",
+        "description": "He shows his own face and tells his story of struggling to learn. This builds massive empathy. People buy from people they relate to."
+      }
+    ],
+    "copywriting": {
+      "h1": "Learn to code in weeks, not months",
+      "subtitle": "Everything you need to build your SaaS or any online business—even as a complete beginner.",
+      "ctaCount": 2,
+      "primaryCta": "Get instant access",
+      "secondaryCta": "View Curriculum"
+    },
+    "colors": [
+      "#F5DDF0",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "UI frameworks",
+        "name": "Tailwind CSS"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "daisyUI"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Next.js"
+      },
+      {
+        "category": "Payment processors",
+        "name": "PayPal"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Clickbank"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "Rewardful"
+      },
+      {
+        "category": "Analytics",
+        "name": "Mux"
+      },
+      {
+        "category": "Analytics",
+        "name": "Microsoft Clarity"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Goober"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Font scripts",
+        "name": "Lucide"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "The Enemy Frame",
+      "description": "He frames standard coding courses as the 'enemy' (designed for engineers, not entrepreneurs). This creates an 'Us vs Them' mentality that makes his course feel like the secret shortcut."
+    },
+    "wouldItWorkForYou": {
+      "description": "If you are selling a new way of doing things, attack the old way. Point out exactly why the old way sucks. It validates the user's past failures and makes your solution the obvious choice."
+    },
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": true,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "setsmart",
+    "name": "SetSmart",
+    "tagline": "AI sales setter that automatically qualifies your leads and books calls via Instagram DMs and WhatsA...",
+    "url": "https://setsmart.io",
+    "mrr": 0,
+    "revenue": 31260.41513696861,
+    "totalRevenue": 424238.243256622,
+    "verified": true,
+    "categories": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "B2B"
+    ],
+    "founder": "Anonymous",
+    "founderTwitter": "",
+    "description": "AI sales setter that automatically qualifies your leads and books calls via Instagram DMs and WhatsApp. Custom scripts, smart filtering, direct calendar booking, 24/7. Integrates with Calendly, GHL, Z",
+    "addedAt": "2026-06-07",
+    "lastUpdated": "2026-06-07T12:53:49.571Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/setsmart",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/private-123-a5aae9eb-05ab-4019-a3b1-8e2e0419a270.png",
+    "screenshotUrl": "/screenshots/setsmart.webp",
+    "forSale": true,
+    "askingPrice": "$499k",
+    "affiliateUrl": "https://trustmrr.com/startup/setsmart?ref=nav-a09d86",
+    "activeSubscriptions": 0,
+    "profitMargin": 70,
+    "growth30d": 48.997768453390286,
+    "growthMRR30d": 0,
+    "country": "",
+    "foundedDate": "2024-06-01",
+    "croInsights": [
+      {
+        "title": "Platform Specificity",
+        "description": "Naming Instagram and WhatsApp directly calls out the exact channels the user cares about."
+      },
+      {
+        "title": "The 24/7 Promise",
+        "description": "Highlighting that it works while you sleep is the ultimate greedy desire for founders."
+      },
+      {
+        "title": "Integration Name-Dropping",
+        "description": "Mentioning Calendly and GHL removes technical objections instantly."
+      }
+    ],
+    "copywriting": {
+      "h1": "Your AI Sales Setter",
+      "subtitle": "Automatically qualify leads and book calls via Instagram DMs and WhatsApp 24/7.",
+      "ctaCount": 2,
+      "primaryCta": "Automate My DMs",
+      "secondaryCta": "Book a Demo"
+    },
+    "colors": [
+      "#10B981",
+      "#052E16",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Ecommerce",
+        "name": "Cart Functionality"
+      },
+      {
+        "category": "Development",
+        "name": "Supabase"
+      },
+      {
+        "category": "Databases",
+        "name": "PostgreSQL"
+      },
+      {
+        "category": "Programming languages",
+        "name": "PHP"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Vue.js"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Nuxt.js"
+      },
+      {
+        "category": "PaaS",
+        "name": "Vercel"
+      },
+      {
+        "category": "Affiliate programs",
+        "name": "FirstPromoter"
+      },
+      {
+        "category": "Marketing automation",
+        "name": "ActiveCampaign"
+      },
+      {
+        "category": "Analytics",
+        "name": "Plausible"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js"
+      },
+      {
+        "category": "Live chat",
+        "name": "Crisp Live Chat"
+      },
+      {
+        "category": "Performance",
+        "name": "Priority Hints"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      }
+    ],
+    "anomaly": {
+      "title": "The 'Done-For-You' Feel",
+      "description": "It's software, but it feels like hiring an employee. 'AI Sales Setter' implies a role, not just a tool."
+    },
+    "wouldItWorkForYou": {
+      "description": "Frame your AI tool as an employee. People hate buying software, but they love hiring cheap, 24/7 labor."
+    },
+    "features": {
+      "testimonials": false,
+      "userCount": true,
+      "pricingTable": true,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": true
+    }
+  },
+  {
+    "slug": "gumroad",
+    "name": "Gumroad",
+    "tagline": "Anyone can earn their first dollar online.",
+    "url": "https://gumroad.com",
+    "mrr": 0,
+    "revenue": 7143938,
+    "totalRevenue": 878595861,
+    "verified": true,
+    "categories": [
+      "E-commerce",
+      "SaaS",
+      "B2C",
+      "B2B"
+    ],
+    "tags": [
+      "SaaS",
+      "B2C",
+      "B2B"
+    ],
+    "founder": "Sahil Lavingia",
+    "founderTwitter": "shl",
+    "description": "Gumroad is a self-publishing digital marketplace platform to sell digital services such as books, memberships, courses and other digital services.",
+    "addedAt": "2026-06-07",
+    "trustmrrUrl": "https://trustmrr.com/startup/gumroad",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/gumroad-113809f2-c628-4d3a-8adb-fbdc414784d7.png",
+    "screenshotUrl": "/screenshots/Gumroad.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/gumroad?ref=nav-a09d86",
+    "revenueModel": "10% transaction fee on creator sales",
+    "features": {
+      "testimonials": true,
+      "userCount": true,
+      "pricingTable": false,
+      "trustedByLogos": true,
+      "demoVideo": false,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": false
+    },
+    "colors": [
+      "#FF90E8",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Mabry Pro",
+      "Inter"
+    ],
+    "techStack": [
+      {
+        "category": "Ecommerce",
+        "name": "Gumroad"
+      },
+      {
+        "category": "Programming languages",
+        "name": "Ruby"
+      },
+      {
+        "category": "Web frameworks",
+        "name": "Ruby on Rails"
+      },
+      {
+        "category": "PaaS",
+        "name": "Amazon Web Services"
+      },
+      {
+        "category": "Payment processors",
+        "name": "PayPal"
+      },
+      {
+        "category": "CDN",
+        "name": "Unpkg"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare"
+      },
+      {
+        "category": "CDN",
+        "name": "Amazon S3"
+      },
+      {
+        "category": "Analytics",
+        "name": "Cloudflare Browser Insights"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "lit-html"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "lit-element"
+      },
+      {
+        "category": "Performance",
+        "name": "Cloudflare Rocket Loader"
+      },
+      {
+        "category": "Security",
+        "name": "HSTS"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "LottieFiles"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "Inertia.js"
+      },
+      {
+        "category": "UI frameworks",
+        "name": "Tailwind CSS"
+      }
+    ],
+    "copywriting": {
+      "h1": "Go from zero to $1",
+      "subtitle": "With Gumroad, anyone can earn their first dollar online. Just start with what you know, see what sticks, and get paid.",
+      "ctaCount": 3,
+      "primaryCta": "Start Selling",
+      "secondaryCta": "View All Products"
+    },
+    "anomaly": {
+      "title": "The Anti-Scale Hook",
+      "description": "They don't promise '$10k/month'. They promise 'your first $1'. It's incredibly humble, realistic, and lowers the pressure to zero."
+    },
+    "wouldItWorkForYou": {
+      "description": "Stop promising the moon. Promise the first millimeter of progress. It's way more believable."
+    },
+    "croInsights": [
+      {
+        "title": "Brutalism Design",
+        "description": "The harsh colors and stark borders make it stand out from boring corporate SaaS. It feels indie and creator-led."
+      },
+      {
+        "title": "The 'Anyone' Frame",
+        "description": "'Anyone can earn' removes the gatekeeping of needing to be a 'business'."
+      },
+      {
+        "title": "Clear Fees",
+        "description": "They usually state their flat 10% fee clearly, building massive trust."
+      }
+    ]
+  },
+  {
+    "slug": "replayed-ltd",
+    "name": "Replayed LTD",
+    "tagline": "Best video editing service for YouTubers - No subscription. On demand. Direct chat with editors.",
+    "url": "https://replayed.co",
+    "mrr": 0,
+    "revenue": 19452.41,
+    "totalRevenue": 1373290.5191392312,
+    "verified": true,
+    "categories": [
+      "Content Creation"
+    ],
+    "tags": [],
+    "founder": "Anonymous",
+    "founderTwitter": "replayedco",
+    "description": "Best video editing service for YouTubers - No subscription. On demand. Direct chat with editors.",
+    "addedAt": "2026-06-14",
+    "lastUpdated": "2026-06-14T17:40:42.938Z",
+    "trustmrrUrl": "https://trustmrr.com/startup/replayed-ltd",
+    "logoUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/replayed-ltd-165bfe94-dcb4-435e-92e3-d94190c8ab3a.png",
+    "screenshotUrl": "/screenshots/replayed-ltd.webp",
+    "forSale": false,
+    "affiliateUrl": "https://trustmrr.com/startup/replayed-ltd?ref=nav-a09d86",
+    "activeSubscriptions": 0,
+    "profitMargin": 0,
+    "growth30d": -19.28269672768192,
+    "growthMRR30d": 0,
+    "country": "GB",
+    "foundedDate": "2020-02-28",
+    "revenueModel": "Pay per project / No subscription",
+    "features": {
+      "testimonials": true,
+      "userCount": false,
+      "pricingTable": false,
+      "trustedByLogos": true,
+      "demoVideo": true,
+      "founderBio": false,
+      "darkLightToggle": false,
+      "faq": false
+    },
+    "colors": [
+      "#FF5A4D",
+      "#09225E",
+      "#6EEDAC"
+    ],
+    "fonts": [
+      "Merriweather",
+      "Inter"
+    ],
+    "copywriting": {
+      "h1": "Where Creators Hire Dream Editors",
+      "subtitle": "Hire vetted editors who get YouTube growth. Upload, chat, review & publish in one app.",
+      "primaryCta": "Create Free Account",
+      "secondaryCta": "See Our Work",
+      "ctaCount": 4
+    },
+    "croInsights": [
+      {
+        "title": "Immediate Risk Reversal",
+        "description": "The checkmarks directly under the main CTA ('AI style scan', 'Instant editor match', 'No subscription') eliminate the biggest objections immediately before the user even scrolls."
+      },
+      {
+        "title": "Humanizing the 'Agency'",
+        "description": "The hero image isn't a dashboard UI, it's floating cutouts of real human editor faces. This subconsciously sells the 'human connection' aspect rather than just software."
+      },
+      {
+        "title": "Anti-Positioning",
+        "description": "The sub-headline 'Let’s cut the agency cr*p' positions them against traditional, slow, generic agencies, instantly aligning them with the frustration of their target audience (creators)."
+      }
+    ],
+    "anomaly": {
+      "title": "No Dashboard Hero",
+      "description": "Unlike 99% of SaaS, the hero section doesn't show the software dashboard. It shows floating human faces. Because creators aren't buying software—they're buying an editor. The UI is secondary to the talent."
+    },
+    "wouldItWorkForYou": {
+      "description": "This layout is perfect for productized services, talent marketplaces, or 'do-it-for-me' software. If your value proposition relies heavily on the human doing the work rather than the software doing the work, lean into showing faces."
+    },
+    "techStack": [
+      {
+        "category": "Programming languages",
+        "name": "Node.js",
+        "iconUrl": "https://www.crft.studio/icons/Node.js.svg",
+        "techUrl": "https://nodejs.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "Web frameworks",
+        "name": "Marko",
+        "iconUrl": "https://www.crft.studio/icons/Marko.svg",
+        "techUrl": "https://markojs.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Web frameworks",
+        "name": "Next.js",
+        "iconUrl": "https://www.crft.studio/icons/Next.js.svg",
+        "techUrl": "https://nextjs.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript frameworks",
+        "name": "React",
+        "iconUrl": "https://www.crft.studio/icons/React.svg",
+        "techUrl": "https://reactjs.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "PaaS",
+        "name": "Amazon Web Services",
+        "iconUrl": "https://www.crft.studio/icons/Amazon%20Web%20Services.svg",
+        "techUrl": "https://aws.amazon.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Web servers",
+        "name": "Next.js",
+        "iconUrl": "https://www.crft.studio/icons/Next.js.svg",
+        "techUrl": "https://nextjs.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "Advertising",
+        "name": "Reddit Ads",
+        "iconUrl": "https://www.crft.studio/icons/Reddit.svg",
+        "techUrl": "https://advertising.reddithelp.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Advertising",
+        "name": "DoubleClick Floodlight",
+        "iconUrl": "https://www.crft.studio/icons/DoubleClick.svg",
+        "techUrl": "https://support.google.com/ds/answer/6029713?hl=en?utm_source=crftLookup"
+      },
+      {
+        "category": "Cookie compliance",
+        "name": "CookieYes",
+        "iconUrl": "https://www.crft.studio/icons/cookieyes.svg",
+        "techUrl": "https://www.cookieyes.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Cloudflare Browser Insights",
+        "iconUrl": "https://www.crft.studio/icons/CloudFlare.svg",
+        "techUrl": "https://www.cloudflare.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "TikTok Pixel",
+        "iconUrl": "https://www.crft.studio/icons/TikTok.svg",
+        "techUrl": "https://ads.tiktok.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Microsoft Clarity",
+        "iconUrl": "https://www.crft.studio/icons/Microsoft%20Clarity.svg",
+        "techUrl": "https://clarity.microsoft.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Google Analytics",
+        "iconUrl": "https://www.crft.studio/icons/Google%20Analytics.svg",
+        "techUrl": "https://google.com/analytics?utm_source=crftLookup"
+      },
+      {
+        "category": "Analytics",
+        "name": "Facebook Pixel",
+        "iconUrl": "https://www.crft.studio/icons/Facebook.svg",
+        "techUrl": "https://facebook.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Tag managers",
+        "name": "Google Tag Manager",
+        "iconUrl": "https://www.crft.studio/icons/Google%20Tag%20Manager.svg",
+        "techUrl": "https://www.google.com/tagmanager?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "core-js",
+        "iconUrl": "https://www.crft.studio/icons/core-js.png",
+        "techUrl": "https://github.com/zloirock/core-js?utm_source=crftLookup"
+      },
+      {
+        "category": "JavaScript libraries",
+        "name": "Swiper",
+        "iconUrl": "https://www.crft.studio/icons/Swiper.svg",
+        "techUrl": "https://swiperjs.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "Live chat",
+        "name": "Crisp Live Chat",
+        "iconUrl": "https://www.crft.studio/icons/Crisp%20Live%20Chat.svg",
+        "techUrl": "https://crisp.chat/?utm_source=crftLookup"
+      },
+      {
+        "category": "CDN",
+        "name": "Cloudflare",
+        "iconUrl": "https://www.crft.studio/icons/CloudFlare.svg",
+        "techUrl": "https://www.cloudflare.com/?utm_source=crftLookup"
+      },
+      {
+        "category": "CDN",
+        "name": "Amazon CloudFront",
+        "iconUrl": "https://www.crft.studio/icons/Amazon%20Cloudfront.svg",
+        "techUrl": "https://aws.amazon.com/cloudfront/?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Webpack",
+        "iconUrl": "https://www.crft.studio/icons/Webpack.svg",
+        "techUrl": "https://webpack.js.org/?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "PWA",
+        "iconUrl": "https://www.crft.studio/icons/PWA.svg",
+        "techUrl": "https://web.dev/progressive-web-apps/?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "Open Graph",
+        "iconUrl": "https://www.crft.studio/icons/Open%20Graph.svg",
+        "techUrl": "https://ogp.me/?utm_source=crftLookup"
+      },
+      {
+        "category": "Miscellaneous",
+        "name": "HTTP/3",
+        "iconUrl": "https://www.crft.studio/icons/HTTP3.svg",
+        "techUrl": "https://httpwg.org/?utm_source=crftLookup"
+      }
+    ]
+  }
+]
